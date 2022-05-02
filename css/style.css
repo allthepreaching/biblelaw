@@ -187,7 +187,7 @@ main {
 
 .content p {
   text-indent: 50px;
-  text-align: justify;
+  text-align: center;
   letter-spacing: 3px;
   padding: 0 2rem 0 2rem;
 }
@@ -204,7 +204,15 @@ main {
   font-weight: 500;
 }
 
-.content ul li .intro {
+.content ul li.intro {
+  list-style: circle;
+  padding: 0 2rem;
+  margin-bottom: 1rem;
+  text-align: justify;
+  list-style-position: inside;
+}
+
+.content ul li .intro-verses {
   margin-bottom: 2rem;
 }
 
@@ -222,6 +230,10 @@ main {
   margin: 0 1rem;
   padding: 0 1rem;
   font-weight: 300;
+}
+
+.content ul.styled li {
+  text-transform: capitalize;
 }
 
 .content ul.sub {

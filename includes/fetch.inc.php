@@ -6,7 +6,7 @@ if (isset($_POST["name"])) {
     $result = mysqli_query($conn, $query);
     $output = '';
     while ($row = mysqli_fetch_array($result)) {
-        $output .= $row["verse"] . '<cite>' . $row["bcv"] . '&nbsp;' . $row["kjv"] . '</cite>';
+        $output .= $row["verse"] . '<cite>' . $row["name"] . '&nbsp;' . $row["kjv"] . '</cite>';
     }
     echo $output;
 }
