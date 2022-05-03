@@ -1,6 +1,37 @@
 <?php include_once 'header.php'; ?>
-<div class="content">
+<!-- FLOAT MENU START -->
+<div class="float-menu active">
+  <div class="float-toggle active"></div>
+  <ul>
 
+    <?php
+
+    $query = "SELECT * FROM categories WHERE cat = 'Civil Law'";
+    $result = mysqli_query($conn, $query);
+    $output = '';
+    while ($row = mysqli_fetch_array($result)) {
+      $output .= '<li><a href="#' . $row['section_id'] . '">' . $row['link_text'] . '</a></li>';
+    }
+    echo $output;
+
+    ?>
+
+  </ul>
+</div>
+<!-- FLOAT MENU END -->
+<div class="content">
+  <!-- MODAL START-->
+  <div class="verse-modal" id="verse-modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div class="modal-verse-container">
+        <blockquote id="verse-quote">
+
+        </blockquote>
+      </div>
+    </div>
+  </div>
+  <!-- MODAL END -->
   <h2>Civil Laws</h2>
   <h3>CRIMES</h3>
   <ol>
@@ -13,14 +44,20 @@
           for eye, tooth for tooth, hand for hand, foot for foot
           <ul class="sub">
             <li>
-              Deuteronomy 19:21, Proverbs 11:10, 14:34, 20:8,26, 21:11,
-              25:5, Romans 13:1-7, 1 Peter 2:14
-            </li>
-            <li>
-              Three main types of punishments: Fines, Death Penalty, and
-              Flogging
+              <span class="modal-verse" id="Deuteronomy 19:21">Deuteronomy 19:21</span>
+              <span class="modal-verse" id="Proverbs 11:10">Proverbs 11:10</span>
+              <span class="modal-verse" id="Proverbs 14:34">14:34</span>
+              <span class="modal-verse" id="Proverbs 20:8">20:8</span>
+              <span class="modal-verse" id="Proverbs 20:26">20:26</span>
+              <span class="modal-verse" id="Proverbs 21:11">21:11</span>
+              <span class="modal-verse" id="Proverbs 25:5">25:5</span>
+              <span class="modal-verse" id="Romans 13:1-7">Romans 13:1-7</span>
+              <span class="modal-verse" id="1 Peter 2:14">1 Peter 2:14</span>
             </li>
           </ul>
+        </li>
+        <li>
+          Three main types of punishments: Fines, Death Penalty, and Flogging
         </li>
       </ul>
     </li>
@@ -28,24 +65,43 @@
       <span class="main-li">Death Penalty Crimes</span>
       <ul class="styled">
         <li>
-          Matthew 28:19 (this is the job of ordained officials but laymen
-          should still encourage new believers to be baptized)
+          Purpose of the death penalty is to make a public example and requires extreme evidence
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Matthew 1:19">Matthew 1:19</span>
+            </li>
+          </ul>
         </li>
+        <li>
+          Religious death penalty crimes do not point to forced conversion but rather a ban on certain religions/practices and citizens are allowed to believe whatever they want
+        </li>
+        <li>
+          Murder
+        </li>
+        <ul class="sub">
+          <li>
+            <span class="modal-verse" id="Genesis 9:6">Genesis 9:6</span> ,
+            <span class="modal-verse" id="Exodus 21:12">Exodus 21:12</span> ,
+            <span class="modal-verse" id="Exodus 21:14">21:14</span> ,
+            <span class="modal-verse" id="Exodus 21:20">21:20</span> ,
+            <span class="modal-verse" id="Exodus 21:22-23">21:22-23</span> ,
+            <span class="modal-verse" id="Exodus 21:29">21:29</span> ,
+            <span class="modal-verse" id="Leviticus 20:2">Leviticus 20:2</span> ,
+            <span class="modal-verse" id="Leviticus 24:17">24:17</span> ,
+            <span class="modal-verse" id="Numbers 35:16-18">Numbers 35:16-18</span> ,
+            <span class="modal-verse" id="Numbers 35:21">35:21</span> ,
+            <span class="modal-verse" id="Numbers 35:30">35:30</span> ,
+            <span class="modal-verse" id="Deuteronomy 19:11-13">Deuteronomy 19:11-13</span> ,
+            <span class="modal-verse" id="2 Samuel 12:9">2 Samuel 12:9</span> ,
+            <span class="modal-verse" id="Proverbs 28:17">Proverbs 28:17</span> ,
+            Includes abortion: <span class="modal-verse" id="Exodus 21:22-23">Exodus 21:22-23</span>
+          </li>
+        </ul>
       </ul>
     </li>
   </ol>
   <br />
-  <br />
-  <br />
-  <br />
-  1. • • (Purpose of the death penalty is to make a public example and
-  requires extreme evidence: Matthew 1:19. Religious death penalty crimes
-  do not point to forced conversion but rather a ban on certain
-  religions/practices and citizens are allowed to believe whatever they
-  want.) 1. Murder: Genesis 9:6, Exodus 21:12,14,20,22-23,29, Leviticus
-  20:2, 24:17, Numbers 35:16-18,21,30, Deuteronomy 19:11-13, 2 Samuel
-  12:9, Proverbs 28:17 (Includes abortion: Exodus 21:22-23) 2.
-  Man-stealing (kidnapping, illegal slavery, human trafficking): Exodus
+  2. Man-stealing (kidnapping, illegal slavery, human trafficking): Exodus
   21:16, Deuteronomy 24:7 3. Bestiality: Exodus 22:19, Leviticus 20:15-16.
   4. Sodomy: Leviticus 20:13, Romans 1:32, 2 Peter 2:6 5. Forcing someone
   (Rape): Deuteronomy 22:25-27, Matthew 18:6, Mark 9:42, Luke 17:2 (Note:

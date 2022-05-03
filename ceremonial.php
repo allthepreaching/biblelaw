@@ -1,6 +1,37 @@
 <?php include_once 'header.php'; ?>
-<div class="content">
+<!-- FLOAT MENU START -->
+<div class="float-menu active">
+  <div class="float-toggle active"></div>
+  <ul>
 
+    <?php
+
+    $query = "SELECT * FROM categories WHERE cat = 'Ceremonial Law'";
+    $result = mysqli_query($conn, $query);
+    $output = '';
+    while ($row = mysqli_fetch_array($result)) {
+      $output .= '<li><a href="#' . $row['section_id'] . '">' . $row['link_text'] . '</a></li>';
+    }
+    echo $output;
+
+    ?>
+
+  </ul>
+</div>
+<!-- FLOAT MENU END -->
+<div class="content">
+  <!-- MODAL START-->
+  <div class="verse-modal" id="verse-modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div class="modal-verse-container">
+        <blockquote id="verse-quote">
+
+        </blockquote>
+      </div>
+    </div>
+  </div>
+  <!-- MODAL END -->
   <h2>Ceremonial Laws</h2>
   <h4>
     <mark>
@@ -14,11 +45,22 @@
       <span class="main-li">Three times thou shalt keep a feast unto me in the year</span>
       <ul class="styled">
         <li>
-          Exodus 23:14, 34:24, Deuteronomy 16:16, Nahum 1:15
+          <span class="modal-verse" id="Exodus 23:14">Exodus 23:14</span> ,
+          <span class="modal-verse" id="Exodus 34:24">34:24</span> ,
+          <span class="modal-verse" id="Deuteronomy 16:16">Deuteronomy 16:16</span> ,
+          <span class="modal-verse" id="Nahum 1:15">Nahum 1:15</span>
           <ul class="sub">
-            <li>1st: Exodus 23:14, Deuteronomy 16:16</li>
-            <li>2nd: Exodus 23:15, 34:22, Deuteronomy 16:16</li>
-            <li>3rd: Exodus 23:15, 34:22, Deuteronomy 16:13,16</li>
+            <li>1st: <span class="modal-verse" id="Exodus 23:14">Exodus 23:14</span> ,
+              <span class="modal-verse" id="Deuteronomy 16:16">Deuteronomy 16:16</span>
+            </li>
+            <li>2nd: <span class="modal-verse" id="Exodus 23:15">Exodus 23:15</span> ,
+              <span class="modal-verse" id="Exodus 34:22">34:22</span> ,
+              <span class="modal-verse" id="Deuteronomy 16:16">Deuteronomy 16:16</span>
+            </li>
+            <li>3rd: <span class="modal-verse" id="Exodus 23:15">Exodus 23:15</span> ,
+              <span class="modal-verse" id="Exodus 34:22">34:22</span> ,
+              <span class="modal-verse" id="Deuteronomy 16:13">Deuteronomy 16:13</span> ,
+              <span class="modal-verse" id="Deuteronomy 16:16">16:16</span>
           </ul>
         </li>
       </ul>

@@ -1,5 +1,24 @@
 <?php include_once 'header.php'; ?>
+<!-- FLOAT MENU START -->
+<div class="float-menu active">
+  <div class="float-toggle active"></div>
+  <ul>
 
+    <?php
+
+    $query = "SELECT * FROM categories WHERE cat = 'Moral Law'";
+    $result = mysqli_query($conn, $query);
+    $output = '';
+    while ($row = mysqli_fetch_array($result)) {
+      $output .= '<a id="float-link" href="#' . $row['section_id'] . '"><li>' . $row['link_text'] . '</li></a>';
+    }
+    echo $output;
+
+    ?>
+
+  </ul>
+</div>
+<!-- FLOAT MENU END -->
 <div class="content">
   <!-- MODAL START-->
   <div class="verse-modal" id="verse-modal">
@@ -14,7 +33,7 @@
   </div>
   <!-- MODAL END -->
   <h2>Moral Laws</h2>
-  <h3 id="moral-baptism">BAPTISM</h3>
+  <h3 id="baptism">BAPTISM</h3>
   <ol>
     <li>
       <span class="main-li">Get Baptized</span>
@@ -38,7 +57,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-bible">BIBLE</h3>
+  <h3 id="bible">BIBLE</h3>
   <ol>
     <li>
       <span class="main-li">Read the Bible (daily)</span>
@@ -115,7 +134,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-ceremonial-law">CEREMONIAL LAW</h3>
+  <h3 id="ceremonial-law">CEREMONIAL LAW</h3>
   <ol>
     <li>
       <span class="main-li">Understand the distinction between the ceremonial and moral laws</span>
@@ -131,7 +150,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-civil-government">CIVIL GOVERNMENT</h3>
+  <h3 id="civil-government">CIVIL GOVERNMENT</h3>
   <ol>
     <li>
       <span class="main-li">Pay taxes:</span>
@@ -165,7 +184,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-communion">COMMUNION</h3>
+  <h3 id="communion">COMMUNION</h3>
   <ol>
     <li>
       <span class="main-li">Eat unleavened bread in remembrance of
@@ -215,7 +234,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-disputes">DISPUTES</h3>
+  <h3 id="disputes">DISPUTES</h3>
   <ol>
     <li>
       <span class="main-li">Avoid conflict</span>
@@ -412,7 +431,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-earth-agriculture-animal-cruelty">EARTH/AGRICULTURE/ANIMAL CRUELTY</h3>
+  <h3 id="earth-agriculture-animal">EARTH/AGRICULTURE/ANIMAL CRUELTY</h3>
   <ol>
     <li>
       <span class="main-li">Subdue the earth (land)</span>
@@ -508,7 +527,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-end-times-prophecy-commands">END TIMES PROPHECY COMMANDS</h3>
+  <h3 id="end-times-prophecy-commands">END TIMES PROPHECY COMMANDS</h3>
   <ol>
     <li>
       <span class="main-li">Watch (don’t sleep): be
@@ -655,7 +674,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-excommunication">EXCOMMUNICATION</h3>
+  <h3 id="excommunication">EXCOMMUNICATION</h3>
   <ol>
     <li>
       <span class="main-li">Principle: Churches have been given absolute authority to kick people out</span>
@@ -777,7 +796,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-family">FAMILY</h3>
+  <h3 id="family">FAMILY</h3>
   <ol>
     <li>
       <span class="main-li">Marriage</span>
@@ -1081,7 +1100,7 @@
       </ul>
     </li>
   </ol>
-  <h3 id="moral-false-religion">FALSE RELIGION</h3>
+  <h3 id="false-religion">FALSE RELIGION</h3>
   <ol>
     <li>
       <span class="main-li">Thou shalt have no other gods before me</span>

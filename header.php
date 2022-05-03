@@ -35,6 +35,7 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/form.css" />
     <link rel="stylesheet" href="css/modal.css">
+    <link rel="stylesheet" href="css/float-menu.css">
 
     <!-- ICON SECTION -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.4.1/css/ionicons.min.css" />
@@ -49,6 +50,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <script src="js/modal.js" defer></script>
     <script src="js/verse.js" defer></script>
+    <script src="js/float-menu.js" defer></script>
 
     <!-- TITLE SECTION -->
     <title>Bible Laws</title>
