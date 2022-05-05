@@ -56,7 +56,7 @@
 
 .float-menu .float-toggle::before {
   content: "+";
-  position: absolute;
+  position: relative;
   font-size: 2em;
   display: flex;
   justify-content: center;
@@ -83,7 +83,7 @@
 }
 
 .float-menu ul a li {
-  list-style-type: square;
+  list-style: none;
 }
 
 .float-menu ul a li:hover {
@@ -94,6 +94,14 @@
   .float-menu {
     position: fixed;
     left: 1.1em;
+    top: 4em;
+  }
+}
+
+@media only screen and (max-width: 378px) {
+  .float-menu {
+    position: fixed;
+    left: 0.5em;
     top: 4em;
   }
 }

@@ -1,7 +1,7 @@
 <?php include_once 'header.php'; ?>
 <!-- FLOAT MENU START -->
-<div class="float-menu active">
-  <div class="float-toggle active"></div>
+<div id="float-menu" class="float-menu">
+  <div id="float-toggle" class="float-toggle"></div>
   <ul>
 
     <?php

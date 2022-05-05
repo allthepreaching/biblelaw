@@ -5,13 +5,14 @@ $servername = "localhost";
 $dbUsername = "root";
 $dbPassword = "";
 $dbName = "biblelaw";
+$port = "3308";
 
-$mysqli = mysqli_connect($servername, $dbUsername, $dbPassword, $dbName);
+$mysqli = mysqli_connect($servername, $dbUsername, $dbPassword, $dbName, $port);
 if (!$mysqli) {
     die("Connection Failed: " . mysqli_connect_error());
 }
 
-$conn = mysqli_connect($servername, $dbUsername, $dbPassword, $dbName);
+$conn = mysqli_connect($servername, $dbUsername, $dbPassword, $dbName, $port);
 if (!$conn) {
     die("Connection Failed: " . mysqli_connect_error());
 }
@@ -21,12 +22,12 @@ if (!$conn) {
 // $dbUsername = "alltdjli_user";
 // $dbPassword = "XKE#6aj^bkZ7";
 // $dbName = "alltdjli_biblelaw";
-// 
+
 // $mysqli = mysqli_connect($servername, $dbUsername, $dbPassword, $dbName);
 // if (!$mysqli) {
     // die("Connection Failed: " . mysqli_connect_error());
 // }
-// 
+
 // $conn = mysqli_connect($servername, $dbUsername, $dbPassword, $dbName);
 // if (!$conn) {
     // die("Connection Failed: " . mysqli_connect_error());
