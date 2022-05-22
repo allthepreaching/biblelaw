@@ -137,7 +137,7 @@
   shall eat of the Passover feast • Exodus 12:43-45,48 • Significance:
   communion is only for the saved 17. All the congregation of Israel shall
   keep it • Exodus 12:47 18. Those unclean by reason of touching a dead
-  body, or those travelling abroad, shall still keep the Passover on the
+  body, or those traveling abroad, shall still keep the Passover on the
   14th of the 2nd month • Numbers 9:10-11 19. Those who are clean and are
   not traveling abroad at this time and don't keep the Passover in the
   first month shall be cut off from the children of Israel • Numbers 9:13

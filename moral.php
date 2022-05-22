@@ -882,7 +882,7 @@
             </li>
             <li>
               Major reason to marry: To avoid fornication, better to marry than to burn
-              <ul class="sub">
+              <ul class="styled">
                 <li>
                   <span class="modal-verse" id="1 Corinthians 7:2">1 Corinthians 7:2</span> ,
                   <span class="modal-verse" id="1 Corinthians 7:9">7:9</span>
@@ -1007,7 +1007,7 @@
             <li>
               Moses permitted this because of the hardness of their hearts but from the beginning it was not so
             </li>
-            <ul class="sub">
+            <ul class="styled">
               <li>
                 <span class="modal-verse" id="Matthew 19:7-8">Matthew 19:7-8</span>
               </li>
@@ -1100,48 +1100,79 @@
       </ul>
     </li>
   </ol>
-  <h3 id="false-religion">FALSE RELIGION</h3>
+  <h3 id="fear">FEAR</h3>
   <ol>
     <li>
-      <span class="main-li">Thou shalt have no other gods before me</span>
+      <span class="main-li">Fear God</span>
       <ul class="styled">
         <li>
-          <span class="modal-verse" id="Exodus 20:3">Exodus 20:3</span> ,
-          <span class="modal-verse" id="Leviticus 19:4">Leviticus 19:4</span> ,
-          <span class="modal-verse" id="Deuteronomy 5:7">Deuteronomy 5:7</span> ,
-          <span class="modal-verse" id="Deuteronomy 6:14">6:14</span> ,
+          <span class="modal-verse" id="Exodus 23:21">Exodus 23:21</span> ,
+          <span class="modal-verse" id="Leviticus 19:14">Leviticus 19:14</span> ,
+          <span class="modal-verse" id="Leviticus 19:32">19:32</span> ,
+          <span class="modal-verse" id="Leviticus 25:36">25:36</span> ,
+          <span class="modal-verse" id="Deuteronomy 5:29">Deuteronomy 5:29</span> ,
+          <span class="modal-verse" id="Deuteronomy 6:13">6:13</span> ,
+          <span class="modal-verse" id="Deuteronomy 6:24">6:24</span> ,
+          <span class="modal-verse" id="Deuteronomy 8:6">8:6</span> ,
+          <span class="modal-verse" id="Deuteronomy 10:12">10:12</span> ,
+          <span class="modal-verse" id="Deuteronomy 10:20">10:20</span> ,
+          <span class="modal-verse" id="Deuteronomy 13:4">13:4</span> ,
           <span class="modal-verse" id="Joshua 24:14">Joshua 24:14</span> ,
-          <span class="modal-verse" id="Joshua 24:23">24:23</span> ,
-          <span class="modal-verse" id="Psalm 81:9">Psalm 81:9</span> ,
-          <span class="modal-verse" id="Jeremiah 7:6">Jeremiah 7:6</span> ,
-          <span class="modal-verse" id="Ezekiel 14:6">Ezekiel 14:6</span> ,
-          <span class="modal-verse" id="Ezekiel 18:6">18:6</span> ,
-          <span class="modal-verse" id="Ezekiel 20:18">20:18</span> ,
-          <span class="modal-verse" id="Ezekiel 22:9">22:9</span> ,
-          <span class="modal-verse" id="Habakkuk 2:19">Habakkuk 2:19</span> ,
-          <span class="modal-verse" id="1 Corinthians 6:9">1 Corinthians 6:9</span> ,
-          <span class="modal-verse" id="1 Corinthians 10:7">10:7</span> ,
-          <span class="modal-verse" id="1 Corinthians 10:14">10:14</span> ,
-          <span class="modal-verse" id="Galatians 5:20">Galatians 5:20</span> ,
-          <span class="modal-verse" id="1 John 5:21">1 John 5:21</span>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <span class="main-li">I don’t think Christians can literally believe in other gods, especially in the NT</span>
-      <ul class="styled">
-        <li>
-          <span class="modal-verse" id="Jeremiah 31:33-34">Jeremiah 31:33-34</span> ,
-          <span class="modal-verse" id="Acts 14:15">Acts 14:15</span>
+          <span class="modal-verse" id="1 Samuel 12:24">1 Samuel 12:24</span> ,
+          <span class="modal-verse" id="2 Kings 17:36">2 Kings 17:36</span> ,
+          <span class="modal-verse" id="2 Kings 17:39">17:39</span> ,
+          <span class="modal-verse" id="1 Chronicles 16:30">1 Chronicles 16:30</span> ,
+          <span class="modal-verse" id="Job 40:3-5">Job 40:3-5</span> ,
+          <span class="modal-verse" id="Psalm 2:11">Psalm 2:11</span> ,
+          <span class="modal-verse" id="Psalm 22:23">22:23</span> ,
+          <span class="modal-verse" id="Psalm 33:8">33:8</span> ,
+          <span class="modal-verse" id="Psalm 34:9">34:9</span> ,
+          <span class="modal-verse" id="Psalm 76:7">76:7</span> ,
+          <span class="modal-verse" id="Psalm 76:11">116:7</span> ,
+          <span class="modal-verse" id="Psalm 85:11">85:11</span> ,
+          <span class="modal-verse" id="Psalm 89:7">89:7</span> ,
+          <span class="modal-verse" id="Psalm 90:11-12">90:11-12</span> ,
+          <span class="modal-verse" id="Psalm 96:9">96:9</span> ,
+          <span class="modal-verse" id="Psalm 119:120">119:120</span> ,
+          <span class="modal-verse" id="Psalm 130:3-4">130:3-4</span> ,
+          <span class="modal-verse" id="Proverbs 1:7">Proverbs 1:7</span> ,
+          <span class="modal-verse" id="Proverbs 3:7">3:7</span> ,
+          <span class="modal-verse" id="Proverbs 8:13">8:13</span> ,
+          <span class="modal-verse" id="Proverbs 10:27">10:27</span> ,
+          <span class="modal-verse" id="Proverbs 13:13">13:13</span> ,
+          <span class="modal-verse" id="Proverbs 14:16">14:16</span> ,
+          <span class="modal-verse" id="Proverbs 14:26-27">14:26-27</span> ,
+          <span class="modal-verse" id="Proverbs 15:16">15:16</span> ,
+          <span class="modal-verse" id="Proverbs 15:33">15:33</span> ,
+          <span class="modal-verse" id="Proverbs 16:6">16:6</span> ,
+          <span class="modal-verse" id="Proverbs 19:23">19:23</span> ,
+          <span class="modal-verse" id="Proverbs 22:4">22:4</span> ,
+          <span class="modal-verse" id="Proverbs 23:17">23:17</span> ,
+          <span class="modal-verse" id="Proverbs 24:21">24:21</span> ,
+          <span class="modal-verse" id="Proverbs 28:14">28:14</span> ,
+          <span class="modal-verse" id="Ecclesiastes 12:13">Ecclesiastes 12:13</span> ,
+          <span class="modal-verse" id="Isaiah 8:13">Isaiah 8:13</span> ,
+          <span class="modal-verse" id="Isaiah 11:2">Isaiah 11:2</span> ,
+          <span class="modal-verse" id="Malachi 1:14">Malachi 1:14</span> ,
+          <span class="modal-verse" id="Matthew 10:28">Matthew 10:28</span> ,
+          <span class="modal-verse" id="Luke 12:5">Luke 12:5</span> ,
+          <span class="modal-verse" id="Romans 11:20">Romans 11:20</span> ,
+          <span class="modal-verse" id="2 Corinthians 7:1">2 Corinthians 7:1</span> ,
+          <span class="modal-verse" id="Philippians 2:12">Philippians 2:12</span> ,
+          <span class="modal-verse" id="Colossians 3:22">Colossians 3:22</span> ,
+          <span class="modal-verse" id="Hebrews 4:1">Hebrews 4:1</span> ,
+          <span class="modal-verse" id="Hebrews 12:28">12:28</span> ,
+          <span class="modal-verse" id="1 Peter 1:17">1 Peter 1:17</span> ,
+          <span class="modal-verse" id="1 Peter 2:17">2:17</span> ,
+          <span class="modal-verse" id="Revelation 14:7">Revelation 14:7</span>
           <ul class="sub">
             <li>
-              but can figuratively make a god out of Money/Self/Belly
-              <ul class="sub">
+              Note: With Trembling
+              <ul class="styled">
                 <li>
-                  <span class="modal-verse" id="Matthew 6:24">Matthew 6:24</span> ,
-                  <span class="modal-verse" id="Ephesians 5:5">Ephesians 5:5</span> ,
-                  <span class="modal-verse" id="Philippians 3:19">Philippians 3:19</span> ,
-                  <span class="modal-verse" id="Colossians 3:5">Colossians 3:5</span>
+                  <span class="modal-verse" id="Psalm 2:11">Psalm 2:11</span> ,
+                  <span class="modal-verse" id="Ephesians 6:5">Ephesians 6:5</span> ,
+                  <span class="modal-verse" id="Philippians 2:12">Philippians 2:12</span>
                 </li>
               </ul>
             </li>
@@ -1150,378 +1181,2324 @@
       </ul>
     </li>
     <li>
-      <span class="main-li">Know that the God of the Bible is the only true God</span>
+      <span class="main-li">Fear your parents</span>
       <ul class="styled">
         <li>
-          <span class="modal-verse" id="Deuteronomy 4:39">Deuteronomy 4:39</span> ,
-          <span class="modal-verse" id="Deuteronomy 7:9-10">7:9-10</span> ,
-          <span class="modal-verse" id="Psalm 46:10">Psalm 46:10</span> ,
-          <span class="modal-verse" id="Psalm 100:3">100:3</span>
+          <span class="modal-verse" id="Leviticus 19:3">Leviticus 19:3</span>
         </li>
       </ul>
     </li>
     <li>
-      <span class="main-li">Don’t serve other gods</span>
+      <span class="main-li">Fear the government when you do evil</span>
       <ul class="styled">
         <li>
-          <span class="modal-verse" id="Exodus 20:5">Exodus 20:5</span> ,
-          <span class="modal-verse" id="Exodus 23:24">23:24</span> ,
-          <span class="modal-verse" id="Deuteronomy 4:19">Deuteronomy 4:19</span> ,
-          <span class="modal-verse" id="Deuteronomy 5:9">5:9</span> ,
-          <span class="modal-verse" id="Deuteronomy 7:16">7:16</span> ,
-          <span class="modal-verse" id="Deuteronomy 11:16">11:16</span> ,
-          <span class="modal-verse" id="Deuteronomy 12:30-31">12:30-31</span> ,
-          <span class="modal-verse" id="Deuteronomy 13:8">13:8</span> ,
-          <span class="modal-verse" id="Joshua 23:7">Joshua 23:7</span> ,
-          <span class="modal-verse" id="2 Kings 17:35">2 Kings 17:35</span> ,
-          <span class="modal-verse" id="Jeremiah 25:6">Jeremiah 25:6</span> ,
+          <span class="modal-verse" id="Proverbs 20:2">Proverbs 20:2</span> ,
+          <span class="modal-verse" id="Proverbs 24:21">24:21</span> ,
+          <span class="modal-verse" id="Romans 13:4">Romans 13:4</span> ,
+          <span class="modal-verse" id="Romans 13:7">13:7</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Fear your masters</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Malachi 1:6">Malachi 1:6</span> ,
+          <span class="modal-verse" id="Ephesians 6:5">Ephesians 6:5</span> ,
+          <span class="modal-verse" id="1 Peter 2:18">1 Peter 2:18</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Fear not (everything else)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Genesis 15:1">Genesis 15:1</span> ,
+          <span class="modal-verse" id="Genesis 26:24">26:24</span> ,
+          <span class="modal-verse" id="Deuteronomy 31:6">Deuteronomy 31:6</span> ,
+          <span class="modal-verse" id="Deuteronomy 31:8">31:8</span> ,
+          <span class="modal-verse" id="Joshua 1:9">Joshua 1:9</span> ,
+          <span class="modal-verse" id="Joshua 8:1">8:1</span> ,
+          <span class="modal-verse" id="Joshua 10:8">10:8</span> ,
+          <span class="modal-verse" id="1 Samuel 12:20">1 Samuel 12:20</span> ,
+          <span class="modal-verse" id="1 Chronicles 22:13">1 Chronicles 22:13</span> ,
+          <span class="modal-verse" id="1 Chronicles 28:20">28:20</span> ,
+          <span class="modal-verse" id="2 Chronicles 20:15">2 Chronicles 20:15</span> ,
+          <span class="modal-verse" id="2 Chronicles 20:17">20:17</span> ,
+          <span class="modal-verse" id="Job 31:34">Job 31:34</span> ,
+          <span class="modal-verse" id="Psalm 37:1">Psalm 37:1</span> ,
+          <span class="modal-verse" id="Psalm 37:7">37:7</span> ,
+          <span class="modal-verse" id="Psalm 49:16">49:16</span> ,
+          <span class="modal-verse" id="Proverbs 3:25-26">Proverbs 3:25-26</span> ,
+          <span class="modal-verse" id="Proverbs 24:19">24:19</span> ,
+          <span class="modal-verse" id="Proverbs 29:25">29:25</span> ,
+          <span class="modal-verse" id="Isaiah 35:4">Isaiah 35:4</span> ,
+          <span class="modal-verse" id="Isaiah 41:10">41:10</span> ,
+          <span class="modal-verse" id="Isaiah 41:14">41:14</span> ,
+          <span class="modal-verse" id="Isaiah 43:1">43:1</span> ,
+          <span class="modal-verse" id="Isaiah 43:5">43:5</span> ,
+          <span class="modal-verse" id="Isaiah 44:2">44:2</span> ,
+          <span class="modal-verse" id="Isaiah 51:7">51:7</span> ,
+          <span class="modal-verse" id="Jeremiah 1:8">Jeremiah 1:8</span> ,
+          <span class="modal-verse" id="Jeremiah 1:17">1:17</span> ,
+          <span class="modal-verse" id="Lamentations 3:57">Lamentations 3:57</span> ,
+          <span class="modal-verse" id="Ezekiel 2:6">Ezekiel 2:6</span> ,
+          <span class="modal-verse" id="Ezekiel 3:9">3:9</span> ,
+          <span class="modal-verse" id="Zephaniah 3:16">Zephaniah 3:16</span> ,
+          <span class="modal-verse" id="Haggai 2:5">Haggai 2:5</span> ,
+          <span class="modal-verse" id="Zechariah 8:13">Zechariah 8:13</span> ,
+          <span class="modal-verse" id="Matthew 10:26">Matthew 10:26</span> ,
+          <span class="modal-verse" id="Matthew 10:28">10:28</span> ,
+          <span class="modal-verse" id="Matthew 10:31">10:31</span> ,
+          <span class="modal-verse" id="Luke 5:10">Luke 5:10</span> ,
+          <span class="modal-verse" id="Luke 12:4">12:4</span> ,
+          <span class="modal-verse" id="Luke 12:7">12:7</span> ,
+          <span class="modal-verse" id="Luke 12:32">12:32</span> ,
+          <span class="modal-verse" id="Luke 21:9">21:9</span> ,
+          <span class="modal-verse" id="John 14:1">John 14:1</span> ,
+          <span class="modal-verse" id="John 14:27">14:27</span> ,
+          <span class="modal-verse" id="Philippians 1:28">Philippians 1:28</span> ,
+          <span class="modal-verse" id="2 Timothy 1:7">2 Timothy 1:7</span> ,
+          <span class="modal-verse" id="Hebrews 13:6">Hebrews 13:6</span> ,
+          <span class="modal-verse" id="1 Peter 3:14">1 Peter 3:14</span> ,
+          <span class="modal-verse" id="Revelation 1:17">Revelation 1:17</span> ,
+          <span class="modal-verse" id="Revelation 2:10">2:10</span>
+          <ul class="sub">
+            <li>
+              Ye shall not be afraid of the face of man (as a judge)
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Deuteronomy 1:17">Deuteronomy 1:17</span>
+                </li>
+              </ul>
+            </li>
+            <li>
+              Thou shalt not be afraid of him (the false prophet)
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Deuteronomy 18:22">Deuteronomy 18:22</span>
+                </li>
+                <li>
+                  Note: people fear because of uncertainty about God’s promises (opposite of faith)
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Have courage</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 31:6-7">Deuteronomy 31:6-7</span> ,
+          <span class="modal-verse" id="Deuteronomy 31:23">31:23</span> ,
+          <span class="modal-verse" id="Joshua 1:6-7">Joshua 1:6-7</span> ,
+          <span class="modal-verse" id="Joshua 1:9">1:9</span> ,
+          <span class="modal-verse" id="Joshua 23:6">23:6</span> ,
+          <span class="modal-verse" id="2 Chronicles 32:7">2 Chronicles 32:7</span> ,
+          <span class="modal-verse" id="Psalm 31:24">Psalm 31:24</span> ,
+          <span class="modal-verse" id="Isaiah 35:3-4">Isaiah 35:3-4</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="fornication">FORNICATION</h3>
+  <ol>
+    <li>
+      <span class="main-li">A man must marry a maid (virgin) that he lies with (unless the father rejects him)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Exodus 22:16">Exodus 22:16</span> ,
+          <span class="modal-verse" id="Deuteronomy 22:28-29">Deuteronomy 22:28-29</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="friends">FRIENDS</h3>
+  <ol>
+    <li>
+      <span class="main-li">Don’t forsake your friends</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Proverbs 18:24">Proverbs 18:24</span> ,
+          <span class="modal-verse" id="Proverbs 27:10">27:10</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Don’t be friends/companions with… </span>
+      <ul class="styled">
+        <li>
+          An angry man
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 22:24">Proverbs 22:24</span>
+            </li>
+          </ul>
+        <li>
+          A glutton/drunkard
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 23:20-21">Proverbs 23:20-21</span> ,
+              <span class="modal-verse" id="Proverbs 28:7">28:7</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          A flatterer
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 20:19">Proverbs 20:19</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Unbelievers
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="2 Corinthians 6:14-18">2 Corinthians 6:14-18</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Evil men
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 1:15">Proverbs 1:15</span> ,
+              <span class="modal-verse" id="Proverbs 24:1">24:1</span> ,
+              <span class="modal-verse" id="2 Timothy 3:5">2 Timothy 3:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Scorners
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 22:10">Proverbs 22:10</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Those given to change
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 24:21">Proverbs 24:21</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Foolish men
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 13:20">Proverbs 13:20</span> ,
+              <span class="modal-verse" id="Proverbs 14:7">14:7</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Be friends/companions with…</span>
+      <ul class="styled">
+        <li>
+          Those that fear God/Wise men
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Psalm 119:63">Psalm 119:63</span> ,
+              <span class="modal-verse" id="Proverbs 13:20">Proverbs 13:20</span> ,
+              <span class="modal-verse" id="Proverbs 15:13">15:13</span> ,
+              <span class="modal-verse" id="2 Timothy 2:22">2 Timothy 2:22</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="gender">GENDER</h3>
+  <ol>
+    <li>
+      <span class="main-li">Sin of effeminacy</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 kings 2:2">1 kings 2:2</span> ,
+          <span class="modal-verse" id="1 Corinthians 6:9">1 Corinthians 6:9</span> ,
+          <span class="modal-verse" id="1 Corinthians 16:13">16:13</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Women should be soft spoken</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Proverbs 7:11">Proverbs 7:11</span> ,
+          <span class="modal-verse" id="Proverbs 9:13">9:13</span> ,
+          <span class="modal-verse" id="Titus 2:5">Titus 2:5</span> ,
+          <span class="modal-verse" id="1 Peter 3:4">1 Peter 3:4</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="good-manners">GOOD MANNERS</h3>
+  <ol>
+    <li>
+      <span class="main-li">Have Salt (savor)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Mark 9:50">Mark 9:50</span> ,
+          <span class="modal-verse" id="Colossians 4:6">Colossians 4:6</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Be Courteous</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Peter 3:8">1 Peter 3:8</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Greet/Salute others (especially by name)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Psalm 2:12">Psalm 2:12</span> ,
+          <span class="modal-verse" id="Matthew 10:12">Matthew 10:12</span> ,
+          <span class="modal-verse" id="Luke 10:5">Luke 10:5</span> ,
+          <span class="modal-verse" id="1 Corinthians 16:20">1 Corinthians 16:20</span> ,
+          <span class="modal-verse" id="1 Thessalonians 5:26">1 Thessalonians 5:26</span> ,
+          <span class="modal-verse" id="Philippians 4:21">Philippians 4:21</span> ,
+          <span class="modal-verse" id="Hebrews 13:24">Hebrews 13:24</span> ,
+          <span class="modal-verse" id="3 John 1:14">3 John 1:14</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Stand up when an elderly man walks in</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Leviticus 19:32">Leviticus 19:32</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Don’t be cruel to the disabled</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Leviticus 19:14">Leviticus 19:14</span> ,
+          <span class="modal-verse" id="Deuteronomy 27:18">Deuteronomy 27:18</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Help those in need</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Exodus 23:5">Exodus 23:5</span> ,
+          <span class="modal-verse" id="Deuteronomy 22:4">Deuteronomy 22:4</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Visit the sick</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Matthew 25:36">Matthew 25:36</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Visit them in prison</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Matthew 25:36">Matthew 25:36</span> ,
+          <span class="modal-verse" id="Hebrews 13:3">Hebrews 13:3</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Don’t abuse hospitality</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Proverbs 25:17">Proverbs 25:17</span> ,
+          <span class="modal-verse" id="Matthew 10:11">Matthew 10:11</span> ,
+          <span class="modal-verse" id="Mark 6:10">Mark 6:10</span> ,
+          <span class="modal-verse" id="Luke 9:4">Luke 9:4</span> ,
+          <span class="modal-verse" id="Luke 10:7">10:7</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="gratitude">GRATITUDE</h3>
+  <ol>
+    <li>
+      <span class="main-li">In everything give thanks</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Chronicles 16:8">1 Chronicles 16:8</span> ,
+          <span class="modal-verse" id="1 Chronicles 16:34">16:34</span> ,
+          <span class="modal-verse" id="Psalm 30:4">Psalm 30:4</span> ,
+          <span class="modal-verse" id="Psalm 50:14">50:14</span> ,
+          <span class="modal-verse" id="Psalm 95:2">95:2</span> ,
+          <span class="modal-verse" id="Psalm 97:12">97:12</span> ,
+          <span class="modal-verse" id="Psalm 100:4">100:4</span> ,
+          <span class="modal-verse" id="Psalm 105:1">105:1</span> ,
+          <span class="modal-verse" id="Psalm 107:1">107:1</span> ,
+          <span class="modal-verse" id="Psalm 147:7">147:7</span> ,
+          <span class="modal-verse" id="1 Thessalonians 5:18">1 Thessalonians 5:18</span> ,
+          <span class="modal-verse" id="Ephesians 5:4">Ephesians 5:4</span> ,
+          <span class="modal-verse" id="Ephesians 5:20">5:20</span> ,
+          <span class="modal-verse" id="Colossians 2:7">Colossians 2:7</span> ,
+          <span class="modal-verse" id="Colossians 3:15">3:15</span> ,
+          <span class="modal-verse" id="Colossians 3:17">3:17</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Don’t complain, murmur or be ungrateful</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Numbers 11:1">Numbers 11:1</span> ,
+          <span class="modal-verse" id="John 6:43">John 6:43</span> ,
+          <span class="modal-verse" id="1 Corinthians 10:10">1 Corinthians 10:10</span> ,
+          <span class="modal-verse" id="Philippians 2:14">Philippians 2:14</span> ,
+          <span class="modal-verse" id="Ephesians 4:31">Ephesians 4:31</span>
+        </li>
+        <li>
+          clamor-loud outcry; expression of discontent or protest
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="housing">HOUSING</h3>
+  <ol>
+    <li>
+      <span class="main-li">And thou shalt write them upon the posts of thy house, and on thy gates (Display God’s Word throughout your house)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 6:9">Deuteronomy 6:9</span> ,
+          <span class="modal-verse" id="Deuteronomy 11:20">11:20</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Build a battlement on your roof when constructing a house</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 22:8">Deuteronomy 22:8</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="humility-honor">HUMILITY/HONOR</h3>
+  <ol>
+    <li>
+      <span class="main-li">Be humble (when you soberly esteem yourself low and another high)(pride is a sin)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Proverbs 3:34">Proverbs 3:34</span> ,
+          <span class="modal-verse" id="Proverbs 6:17">6:17</span> ,
+          <span class="modal-verse" id="Proverbs 8:13">8:13</span> ,
+          <span class="modal-verse" id="Proverbs 11:2">11:2</span> ,
+          <span class="modal-verse" id="Proverbs 12:9">12:9</span> ,
+          <span class="modal-verse" id="Proverbs 13:10">13:10</span> ,
+          <span class="modal-verse" id="Proverbs 15:25">15:25</span> ,
+          <span class="modal-verse" id="Proverbs 15:33">15:33</span> ,
+          <span class="modal-verse" id="Proverbs 16:5">16:5</span> ,
+          <span class="modal-verse" id="Proverbs 16:18-19">16:18-19</span> ,
+          <span class="modal-verse" id="Proverbs 17:19">17:19</span> ,
+          <span class="modal-verse" id="Proverbs 18:11-12">18:11-12</span> ,
+          <span class="modal-verse" id="Proverbs 21:4">21:4</span> ,
+          <span class="modal-verse" id="Proverbs 22:4">22:4</span> ,
+          <span class="modal-verse" id="Proverbs 28:25">28:25</span> ,
+          <span class="modal-verse" id="Proverbs 29:23">29:23</span> ,
+          <span class="modal-verse" id="Proverbs 30:13">30:13</span> ,
+          <span class="modal-verse" id="Isaiah 66:2">Isaiah 66:2</span> ,
+          <span class="modal-verse" id="Micah 6:8">Micah 6:8</span> ,
+          <span class="modal-verse" id="Mark 7:22">Mark 7:22</span> ,
+          <span class="modal-verse" id="Romans 11:20">Romans 11:20</span> ,
+          <span class="modal-verse" id="Romans 12:3">12:3</span> ,
+          <span class="modal-verse" id="Romans 12:16">12:16</span> ,
+          <span class="modal-verse" id="1 Corinthians 1:26-29">1 Corinthians 1:26-29</span> ,
+          <span class="modal-verse" id="1 Corinthians 4:6">4:6</span> ,
+          <span class="modal-verse" id="2 Corinthians 12:20">2 Corinthians 12:20</span> ,
+          <span class="modal-verse" id="Ephesians 4:2">Ephesians 4:2</span> ,
+          <span class="modal-verse" id="Philippians 2:3">Philippians 2:3</span> ,
+          <span class="modal-verse" id="Philippians 2:5">2:5</span> ,
+          <span class="modal-verse" id="Colossians 3:12">Colossians 3:12</span> ,
+          <span class="modal-verse" id="James 4:6">James 4:6</span> ,
+          <span class="modal-verse" id="James 4:10">4:10</span> ,
+          <span class="modal-verse" id="1 Peter 5:5-6">1 Peter 5:5-6</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Be meek</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Zephaniah 2:3">Zephaniah 2:3</span> ,
+          <span class="modal-verse" id="Galatians 5:23">Galatians 5:23</span> ,
+          <span class="modal-verse" id="Ephesians 4:2">Ephesians 4:2</span> ,
+          <span class="modal-verse" id="Colossians 3:12">Colossians 3:12</span> ,
+          <span class="modal-verse" id="1 Timothy 6:11">1 Timothy 6:11</span> ,
+          <span class="modal-verse" id="Titus 3:2">Titus 3:2</span> ,
+          <span class="modal-verse" id="1 Peter 3:4">3:4</span> ,
+          <span class="modal-verse" id="1 Peter 3:15">1 Peter 3:15</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Choose the lowest seat</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Proverbs 25:6-7">Proverbs 25:6-7</span> ,
+          <span class="modal-verse" id="Matthew 23:6">Matthew 23:6</span> ,
+          <span class="modal-verse" id="Mark 12:39">Mark 12:39</span> ,
+          <span class="modal-verse" id="Luke 11:43">Luke 11:43</span> ,
+          <span class="modal-verse" id="Luke 14:8">14:8</span> ,
+          <span class="modal-verse" id="Luke 14:10">14:10</span> ,
+          <span class="modal-verse" id="Luke 20:46">20:46</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Say we are unprofitable servants (God isn’t bettered by us- only we and the people around us are profited: stay humble)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Luke 17:10">Luke 17:10</span>
+        </li>
+        <li>
+          Honor, reverence, esteem highly
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Husband to wife</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Peter 3:7">1 Peter 3:7</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Wife to husband</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Ephesians 5:33">Ephesians 5:33</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Children to parents</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Exodus 20:12">Exodus 20:12</span> ,
+          <span class="modal-verse" id="Deuteronomy 5:16">Deuteronomy 5:16</span> ,
+          <span class="modal-verse" id="Deuteronomy 27:16">27:16</span> ,
+          <span class="modal-verse" id="Proverbs 30:17">Proverbs 30:17</span> ,
+          <span class="modal-verse" id="Ezekiel 22:7">Ezekiel 22:7</span> ,
+          <span class="modal-verse" id="Matthew 15:4">Matthew 15:4</span> ,
+          <span class="modal-verse" id="Matthew 19:19">19:19</span> ,
+          <span class="modal-verse" id="Mark 7:10">Mark 7:10</span> ,
+          <span class="modal-verse" id="Mark 10:19">10:19</span> ,
+          <span class="modal-verse" id="Luke 18:20">Luke 18:20</span> ,
+          <span class="modal-verse" id="Ephesians 6:2">Ephesians 6:2</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Servant to master</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Malachi 1:6">Malachi 1:6</span> ,
+          <span class="modal-verse" id="1 Timothy 6:1">1 Timothy 6:1</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Citizens to the king</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Romans 13:7">Romans 13:7</span> ,
+          <span class="modal-verse" id="1 Peter 2:17">1 Peter 2:17</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Believers to spiritual leader</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Philippians 2:29">Philippians 2:29</span> ,
+          <span class="modal-verse" id="1 Corinthians 4:1">1 Corinthians 4:1</span> ,
+          <span class="modal-verse" id="1 Thessalonians 5:12-13">1 Thessalonians 5:12-13</span> ,
+          <span class="modal-verse" id="1 Timothy 5:17">1 Timothy 5:17</span> ,
+          <span class="modal-verse" id="Hebrews 13:7">Hebrews 13:7</span> ,
+          <span class="modal-verse" id="1 Timothy 4:12">1 Timothy 4:12</span> ,
+          <span class="modal-verse" id="Titus 2:15">Titus 2:15</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Other believers (in general)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Romans 12:10">Romans 12:10</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Elderly</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Leviticus 19:32">Leviticus 19:32</span> ,
+          <span class="modal-verse" id="1 Timothy 5:3">1 Timothy 5:3</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">All men (equal value as a person)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Titus 3:2">Titus 3:2</span> ,
+          <span class="modal-verse" id="1 Peter 2:17">1 Peter 2:17</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Worship the Lord</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="2 Kings 17:36">2 Kings 17:36</span> ,
+          <span class="modal-verse" id="Psalm 4:4">Psalm 4:4</span> ,
+          <span class="modal-verse" id="Psalm 45:11">45:11</span> ,
+          <span class="modal-verse" id="Psalm 96:9">96:9</span> ,
           <span class="modal-verse" id="Matthew 4:10">Matthew 4:10</span> ,
-          <span class="modal-verse" id="Luke 4:8">Luke 4:8</span>
+          <span class="modal-verse" id="Luke 4:8">Luke 4:8</span> ,
+          <span class="modal-verse" id="Hebrews 12:28">Hebrews 12:28</span> ,
+          <span class="modal-verse" id="Revelation 14:7">Revelation 14:7</span> ,
+          <span class="modal-verse" id="Revelation 19:10">Revelation 19:10</span>
         </li>
       </ul>
     </li>
     <li>
-      <span class="main-li">Don’t worship other gods</span>
+      <span class="main-li">Sanctify the Lord</span>
       <ul class="styled">
         <li>
-          <span class="modal-verse" id="Exodus 34:14">Exodus 34:14</span> ,
-          <span class="modal-verse" id="Deuteronomy 4:19">Deuteronomy 4:19</span> ,
-          <span class="modal-verse" id="Deuteronomy 11:16">11:16</span> ,
-          <span class="modal-verse" id="Psalm 81:9">Psalm 81:9</span> ,
-          <span class="modal-verse" id="Jeremiah 25:6">Jeremiah 25:6</span>
+          <span class="modal-verse" id="Isaiah 8:13">Isaiah 8:13</span> ,
+          <span class="modal-verse" id="1 Peter 3:15">1 Peter 3:15</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="joy">JOY</h3>
+  <ol>
+    <li>
+      <span class="main-li">Rejoice in the Lord (always/evermore)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Chronicles 16:10">1 Chronicles 16:10</span> ,
+          <span class="modal-verse" id="Psalm 2:11">Psalm 2:11</span> ,
+          <span class="modal-verse" id="Psalm 5:11">5:11</span> ,
+          <span class="modal-verse" id="Psalm 32:11">32:11</span> ,
+          <span class="modal-verse" id="Psalm 33:1">33:1</span> ,
+          <span class="modal-verse" id="Psalm 37:4">37:4</span> ,
+          <span class="modal-verse" id="Psalm 40:16">40:16</span> ,
+          <span class="modal-verse" id="Psalm 48:11">48:11</span> ,
+          <span class="modal-verse" id="Psalm 67:4">67:4</span> ,
+          <span class="modal-verse" id="Psalm 68:3-4">68:3-4</span> ,
+          <span class="modal-verse" id="Psalm 70:4">70:4</span> ,
+          <span class="modal-verse" id="Psalm 97:12">97:12</span> ,
+          <span class="modal-verse" id="Psalm 118:12">118:12</span> ,
+          <span class="modal-verse" id="Psalm 149:2">149:2</span> ,
+          <span class="modal-verse" id="Psalm 149:5">149:5</span> ,
+          <span class="modal-verse" id="Proverbs 15:13">Proverbs 15:13</span> ,
+          <span class="modal-verse" id="Proverbs 15:15">15:15</span> ,
+          <span class="modal-verse" id="Proverbs 17:22">17:22</span> ,
+          <span class="modal-verse" id="Ecclesiastes 9:7">Ecclesiastes 9:7</span> ,
+          <span class="modal-verse" id="Isaiah 65:18">Isaiah 65:18</span> ,
+          <span class="modal-verse" id="Isaiah 66:10">66:10</span> ,
+          <span class="modal-verse" id="Joel 2:23">Joel 2:23</span> ,
+          <span class="modal-verse" id="Zephaniah 3:14">Zephaniah 3:14</span> ,
+          <span class="modal-verse" id="Zechariah 2:10">Zechariah 2:10</span> ,
+          <span class="modal-verse" id="Zechariah 9:9">9:9</span> ,
+          <span class="modal-verse" id="Romans 12:8">Romans 12:8</span> ,
+          <span class="modal-verse" id="1 Corinthians 13:11">1 Corinthians 13:11</span> ,
+          <span class="modal-verse" id="Galatians 5:22">Galatians 5:22</span> ,
+          <span class="modal-verse" id="Philippians 3:1">Philippians 3:1</span> ,
+          <span class="modal-verse" id="Philippians 4:4">4:4</span> ,
+          <span class="modal-verse" id="1 Thessalonians 5:16">1 Thessalonians 5:16</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">For your Salvation</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Luke 10:20">Luke 10:20</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">For rewards/blessings</span>
+      <ul class="styled">
+        <li>
+          When tempted (tested to sin)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="James 1:2">James 1:2</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          When persecuted for Christ’s sake
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Matthew 5:12">Matthew 5:12</span> ,
+              <span class="modal-verse" id="Luke 6:23">Luke 6:23</span> ,
+              <span class="modal-verse" id="John 16:33">John 16:33</span> ,
+              <span class="modal-verse" id="Romans 12:12">Romans 12:12</span> ,
+              <span class="modal-verse" id="1 Peter 3:14">1 Peter 3:14</span> ,
+              <span class="modal-verse" id="1 Peter 4:12-13">4:12-13</span> ,
+              <span class="modal-verse" id="1 Peter 4:16">4:16</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          When exalted/made low
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Ecclesiastes 7:14">Ecclesiastes 7:14</span> ,
+              <span class="modal-verse" id="James 1:9-10">James 1:9-10</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          For hope of reward
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Jeremiah 31:16">Jeremiah 31:16</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Rejoice not; sorrow; mourn (because of sin)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Jeremiah 6:26">Jeremiah 6:26</span> ,
+          <span class="modal-verse" id="Hosea 9:1">Hosea 9:1</span> ,
+          <span class="modal-verse" id="Joel 1:5">Joel 1:5</span> ,
+          <span class="modal-verse" id="Joel 1:11">1:11</span> ,
+          <span class="modal-verse" id="Joel 1:13">1:13</span> ,
+          <span class="modal-verse" id="Joel 2:12-13">2:12-13</span> ,
+          <span class="modal-verse" id="James 4:9">James 4:9</span> ,
+          <span class="modal-verse" id="James 4:16">4:16</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Be happy for others (when good things happen) or sad (when bad)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Job 6:14">Job 6:14</span> ,
+          <span class="modal-verse" id="Proverbs 17:5">Proverbs 17:5</span> ,
+          <span class="modal-verse" id="Romans 12:15">Romans 12:15</span> ,
+          <span class="modal-verse" id="Hebrews 13:3">Hebrews 13:3</span> ,
+          <span class="modal-verse" id="1 Peter 3:8">1 Peter 3:8</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="justice-equity-civil-moral">JUSTICE AND EQUITY (CIVIL & MORAL)</h3>
+  <ol>
+    <li>
+      <span class="main-li">Judge righteous judgement</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Exodus 23:7">Exodus 23:7</span> ,
+          <span class="modal-verse" id="Leviticus 19:15">Leviticus 19:15</span> ,
+          <span class="modal-verse" id="Leviticus 19:35">19:35</span> ,
+          <span class="modal-verse" id="Deuteronomy 1:16">Deuteronomy 1:16</span> ,
+          <span class="modal-verse" id="Deuteronomy 16:18-20">16:18-20</span> ,
+          <span class="modal-verse" id="Deuteronomy 24:17">24:17</span> ,
+          <span class="modal-verse" id="Deuteronomy 25:1">25:1</span> ,
+          <span class="modal-verse" id="Deuteronomy 27:19">27:19</span> ,
+          <span class="modal-verse" id="Proverbs 17:15">Proverbs 17:15</span> ,
+          <span class="modal-verse" id="Proverbs 17:26">17:26</span> ,
+          <span class="modal-verse" id="Proverbs 18:5">18:5</span> ,
+          <span class="modal-verse" id="Proverbs 29:4">29:4</span> ,
+          <span class="modal-verse" id="Proverbs 31:8-9">31:8-9</span> ,
+          <span class="modal-verse" id="Jeremiah 7:5-6">Jeremiah 7:5-6</span> ,
+          <span class="modal-verse" id="Jeremiah 22:3">22:3</span> ,
+          <span class="modal-verse" id="Ezekiel 18:8">Ezekiel 18:8</span> ,
+          <span class="modal-verse" id="Ezekiel 45:9">45:9</span> ,
+          <span class="modal-verse" id="Hosea 12:6">Hosea 12:6</span> ,
+          <span class="modal-verse" id="Micah 6:8">Micah 6:8</span> ,
+          <span class="modal-verse" id="Zechariah 8:16">Zechariah 8:16</span> ,
+          <span class="modal-verse" id="John 7:24">John 7:24</span> ,
+          <span class="modal-verse" id="Titus 1:8">Titus 1:8</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Thou shalt not respect persons (equality) (poor/ mighty/ rich/ stranger)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 1:17">Deuteronomy 1:17</span> ,
+          <span class="modal-verse" id="Deuteronomy 16:19">16:19</span> ,
+          <span class="modal-verse" id="Proverbs 18:5">Proverbs 18:5</span> ,
+          <span class="modal-verse" id="Proverbs 24:23">24:23</span> ,
+          <span class="modal-verse" id="Proverbs 28:21">28:21</span> ,
+          <span class="modal-verse" id="Ephesians 6:9">Ephesians 6:9</span> ,
+          <span class="modal-verse" id="Colossians 4:1">Colossians 4:1</span> ,
+          <span class="modal-verse" id="1 Timothy 5:21">1 Timothy 5:21</span> ,
+          <span class="modal-verse" id="Titus 1:8">Titus 1:8</span> ,
+          <span class="modal-verse" id="James 2:1">James 2:1</span> ,
+          <span class="modal-verse" id="James 2:9">2:9</span>
+          <ul class="sub">
+            <li>
+              Poor/Rich
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Exodus 23:3">Exodus 23:3</span> ,
+                  <span class="modal-verse" id="Leviticus 19:15">Leviticus 19:15</span> ,
+                  <span class="modal-verse" id="Proverbs 29:7">Proverbs 29:7</span> ,
+                  <span class="modal-verse" id="Proverbs 29:14">29:14</span> ,
+                  <span class="modal-verse" id="Isaiah 10:2">Isaiah 10:2</span> ,
+                  <span class="modal-verse" id="Zechariah 7:10">Zechariah 7:10</span> ,
+                  <span class="modal-verse" id="James 2:2-4">James 2:2-4</span>
+                </li>
+              </ul>
+            </li>
+            <li>
+              Small/Great
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Deuteronomy 1:17">Deuteronomy 1:17</span> ,
+                  <span class="modal-verse" id="Proverbs 17:26">Proverbs 17:26</span>
+                </li>
+              </ul>
+            </li>
+            <li>
+              Stranger/Brethren (applicable to race/ethnicity)
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Exodus 12:48-49">Exodus 12:48-49</span> ,
+                  <span class="modal-verse" id="Exodus 22:21">22:21</span> ,
+                  <span class="modal-verse" id="Exodus 23:9">23:9</span> ,
+                  <span class="modal-verse" id="Leviticus 19:33-34">Leviticus 19:33-34</span> ,
+                  <span class="modal-verse" id="Leviticus 24:22">24:22</span> ,
+                  <span class="modal-verse" id="Numbers 15:15-16">Numbers 15:15-16</span> ,
+                  <span class="modal-verse" id="Deuteronomy 27:19">Deuteronomy 27:19</span> ,
+                  <span class="modal-verse" id="Jeremiah 7:6">Jeremiah 7:6</span> ,
+                  <span class="modal-verse" id="Ezekiel 22:7">Ezekiel 22:7</span> ,
+                  <span class="modal-verse" id="Zechariah 7:10">Zechariah 7:10</span> ,
+                  <span class="modal-verse" id="Malachi 3:5 ">Malachi 3:5 </span>
+                </li>
+              </ul>
+            </li>
+            <li>
+              Widow/Fatherless
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Exodus 22:22">Exodus 22:22</span> ,
+                  <span class="modal-verse" id="Deuteronomy 27:19">Deuteronomy 27:19</span> ,
+                  <span class="modal-verse" id="Isaiah 1:17">Isaiah 1:17</span> ,
+                  <span class="modal-verse" id="Isaiah 10:2">10:2</span> ,
+                  <span class="modal-verse" id="Jeremiah 7:6">Jeremiah 7:6</span> ,
+                  <span class="modal-verse" id="Ezekiel 22:7">Ezekiel 22:7</span> ,
+                  <span class="modal-verse" id="Zachariah 7:10">Zachariah 7:10</span> ,
+                  <span class="modal-verse" id="Malachi 3:5">Malachi 3:5</span> ,
+                  <span class="modal-verse" id="Matthew 23:14">Matthew 23:14</span> ,
+                  <span class="modal-verse" id="Mark 12:40">Mark 12:40</span> ,
+                  <span class="modal-verse" id="Luke 20:47">Luke 20:47</span>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Don’t receive bribes (money that corrupts judgment)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Exodus 23:8">Exodus 23:8</span> ,
+          <span class="modal-verse" id="Deuteronomy 16:19">Deuteronomy 16:19</span> ,
+          <span class="modal-verse" id="Psalm 15:5">Psalm 15:5</span> ,
+          <span class="modal-verse" id="Proverbs 15:27">Proverbs 15:27</span> ,
+          <span class="modal-verse" id="Proverbs 17:23">17:23</span> ,
+          <span class="modal-verse" id="Proverbs 29:4">29:4</span> ,
+          <span class="modal-verse" id="Ezekiel 22:12">Ezekiel 22:12</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Receive not an accusation but before two or three witnesses</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Timothy 5:19">1 Timothy 5:19</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">One is punished for his own sin (not for another person’s)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 24:16">Deuteronomy 24:16</span> ,
+          <span class="modal-verse" id="2 Kings 14:6">2 Kings 14:6</span> ,
+          <span class="modal-verse" id="2 Chronicles 25:4">2 Chronicles 25:4</span> ,
+          <span class="modal-verse" id="Ezekiel 18:18-20">Ezekiel 18:18-20</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Don’t twist judgment to follow the crowd</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Exodus 23:2">Exodus 23:2</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="love-hate">LOVE & HATE</h3>
+  <ol>
+    <li>
+      <span class="main-li">Love God</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 6:5">Deuteronomy 6:5</span> ,
+          <span class="modal-verse" id="Deuteronomy 10:12">10:12</span> ,
+          <span class="modal-verse" id="Deuteronomy 10:20">10:20</span> ,
+          <span class="modal-verse" id="Deuteronomy 11:1">11:1</span> ,
+          <span class="modal-verse" id="Deuteronomy 13:22">13:22</span> ,
+          <span class="modal-verse" id="Deuteronomy 30:16">30:16</span> ,
+          <span class="modal-verse" id="Deuteronomy 30:20">30:20</span> ,
+          <span class="modal-verse" id="Joshua 22:5">Joshua 22:5</span> ,
+          <span class="modal-verse" id="Joshua 23:11">23:11</span> ,
+          <span class="modal-verse" id="Psalm 17:15">Psalm 17:15</span> ,
+          <span class="modal-verse" id="Psalm 18:1">18:1</span> ,
+          <span class="modal-verse" id="Psalm 31:23">31:23</span> ,
+          <span class="modal-verse" id="Psalm 40:8">40:8</span> ,
+          <span class="modal-verse" id="Psalm 42:1-3">42:1-3</span> ,
+          <span class="modal-verse" id="Psalm 57:7">57:7</span> ,
+          <span class="modal-verse" id="Psalm 63:1-2">63:1-2</span> ,
+          <span class="modal-verse" id="Psalm 73:25">73:25</span> ,
+          <span class="modal-verse" id="Psalm 89:16">89:16</span> ,
+          <span class="modal-verse" id="Psalm 100:2">100:2</span> ,
+          <span class="modal-verse" id="Psalm 105:3">105:3</span> ,
+          <span class="modal-verse" id="Psalm 143:6">143:6</span> ,
+          <span class="modal-verse" id="Proverbs 8:17">Proverbs 8:17</span> ,
+          <span class="modal-verse" id="Matthew 22:37-38">Matthew 22:37-38</span> ,
+          <span class="modal-verse" id="Mark 12:30">Mark 12:30</span> ,
+          <span class="modal-verse" id="Luke 10:27">Luke 10:27</span> ,
+          <span class="modal-verse" id="Luke 11:42">11:42</span> ,
+          <span class="modal-verse" id="Colossians 3:2">Colossians 3:2</span> ,
+          <span class="modal-verse" id="Jude 1:21">Jude 1:21</span>
+        </li>
+        <li>
+          In comparison to loving God: hate father, mother, wife, children, brethren, sisters, and your own life
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Luke 14:26">Luke 14:26</span> ,
+              <span class="modal-verse" id="Matthew 10:37">Matthew 10:37</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Love good (righteousness), hate evil (sin)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Psalm 11:5">Psalm 11:5</span> ,
+          <span class="modal-verse" id="Psalm 97:10">97:10</span> ,
+          <span class="modal-verse" id="Psalm 101:3">101:3</span> ,
+          <span class="modal-verse" id="Proverbs 6:18">Proverbs 6:18</span> ,
+          <span class="modal-verse" id="Proverbs 8:13">8:13</span> ,
+          <span class="modal-verse" id="Proverbs 10:23">10:23</span> ,
+          <span class="modal-verse" id="Proverbs 13:5">13:5</span> ,
+          <span class="modal-verse" id="Proverbs 14:9">14:9</span> ,
+          <span class="modal-verse" id="Proverbs 15:10">15:10</span> ,
+          <span class="modal-verse" id="Proverbs 21:10">21:10</span> ,
+          <span class="modal-verse" id="Proverbs 21:15">21:15</span> ,
+          <span class="modal-verse" id="Proverbs 27:3">27:3</span> ,
+          <span class="modal-verse" id="Proverbs 28:16">28:16</span> ,
+          <span class="modal-verse" id="Amos 5:14-15">Amos 5:14-15</span> ,
+          <span class="modal-verse" id="Micah 6:8">Micah 6:8</span> ,
+          <span class="modal-verse" id="Zephaniah 2:3">Zephaniah 2:3</span> ,
+          <span class="modal-verse" id="Matthew 5:6">Matthew 5:6</span> ,
+          <span class="modal-verse" id="Romans 12:9">Romans 12:9</span> ,
+          <span class="modal-verse" id="Ephesians 5:11">Ephesians 5:11</span> ,
+          <span class="modal-verse" id="Hebrews 1:9">Hebrews 1:9</span> ,
+          <span class="modal-verse" id="3 John 1:11">3 John 1:11</span> ,
+          <span class="modal-verse" id="Revelation 3:19">Revelation 3:19</span>
+        </li>
+        <li>
+          Thy law do I love/longing after at all times/stick (cleave) unto them/run/make haste/delay not/ pant for thy word/Lift up your voice for/seek as for hid treasures.
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Chronicles 28:8-9">1 Chronicles 28:8-9</span> ,
+              <span class="modal-verse" id="Psalm 1:2">Psalm 1:2</span> ,
+              <span class="modal-verse" id="Psalm 40:8">40:8</span> ,
+              <span class="modal-verse" id="Psalm 119:16">119:16</span> ,
+              <span class="modal-verse" id="Psalm 119:20">119:20</span> ,
+              <span class="modal-verse" id="Psalm 119:24">119:24</span> ,
+              <span class="modal-verse" id="Psalm 119:31">119:31</span> ,
+              <span class="modal-verse" id="Psalm 119:32">119:32</span> ,
+              <span class="modal-verse" id="Psalm 119:35">119:35</span> ,
+              <span class="modal-verse" id="Psalm 119:40">119:40</span> ,
+              <span class="modal-verse" id="Psalm 119:60">119:60</span> ,
+              <span class="modal-verse" id="Psalm 119:70">119:70</span> ,
+              <span class="modal-verse" id="Psalm 119:72">119:72</span> ,
+              <span class="modal-verse" id="Psalm 119:77">119:77</span> ,
+              <span class="modal-verse" id="Psalm 119:97">119:97</span> ,
+              <span class="modal-verse" id="Psalm 119:103">119:103</span> ,
+              <span class="modal-verse" id="Psalm 119:111">119:111</span> ,
+              <span class="modal-verse" id="Psalm 119:113">119:113</span> ,
+              <span class="modal-verse" id="Psalm 119:131">119:131</span> ,
+              <span class="modal-verse" id="Psalm 119:136">119:136</span> ,
+              <span class="modal-verse" id="Psalm 119:140">119:140</span> ,
+              <span class="modal-verse" id="Psalm 119:143">119:143</span> ,
+              <span class="modal-verse" id="Psalm 119:161">119:161</span> ,
+              <span class="modal-verse" id="Psalm 119:167">119:167</span> ,
+              <span class="modal-verse" id="Psalm 119:174">119:174</span> ,
+              <span class="modal-verse" id="Proverbs 1:7">Proverbs 1:7</span> ,
+              <span class="modal-verse" id="Proverbs 1:22">1:22</span> ,
+              <span class="modal-verse" id="Proverbs 2:1-4">2:1-4</span> ,
+              <span class="modal-verse" id="Proverbs 2:10">2:10</span> ,
+              <span class="modal-verse" id="Proverbs 3:15">3:15</span> ,
+              <span class="modal-verse" id="Proverbs 4:5-8">4:5-8</span> ,
+              <span class="modal-verse" id="Proverbs 7:1-4">7:1-4</span> ,
+              <span class="modal-verse" id="Proverbs 12:1">12:1</span> ,
+              <span class="modal-verse" id="Proverbs 15:21">15:21</span> ,
+              <span class="modal-verse" id="Proverbs 18:2">18:2</span> ,
+              <span class="modal-verse" id="Ezekiel 22:8">Ezekiel 22:8</span> ,
+              <span class="modal-verse" id="1 Thessalonians 5:20">1 Thessalonians 5:20</span> ,
+              <span class="modal-verse" id="Hebrews 13:22">Hebrews 13:22</span> ,
+              <span class="modal-verse" id="1 Peter 2:2">1 Peter 2:2</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Thou shalt not covet: Be content: Love not the world, neither the things in the world</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Exodus 20:17">Exodus 20:17</span> ,
+          <span class="modal-verse" id="Deuteronomy 5:21">Deuteronomy 5:21</span> ,
+          <span class="modal-verse" id="Job 31:25">Job 31:25</span> ,
+          <span class="modal-verse" id="Proverbs 15:27">Proverbs 15:27</span> ,
+          <span class="modal-verse" id="Proverbs 27:20">27:20</span> ,
+          <span class="modal-verse" id="Proverbs 28:20">28:20</span> ,
+          <span class="modal-verse" id="Proverbs 28:22">28:22</span> ,
+          <span class="modal-verse" id="Proverbs 30:8">30:8</span> ,
+          <span class="modal-verse" id="Proverbs 30:15-16">30:15-16</span> ,
+          <span class="modal-verse" id="Mark 7:22">Mark 7:22</span> ,
+          <span class="modal-verse" id="Luke 3:14">Luke 3:14</span> ,
+          <span class="modal-verse" id="Luke 12:15">12:15</span> ,
+          <span class="modal-verse" id="Romans 7:7">Romans 7:7</span> ,
+          <span class="modal-verse" id="Romans 13:9">13:9</span> ,
+          <span class="modal-verse" id="1 Corinthians 6:10">1 Corinthians 6:10</span> ,
+          <span class="modal-verse" id="1 Corinthians 10:6">10:6</span> ,
+          <span class="modal-verse" id="Ephesians 5:3">Ephesians 5:3</span> ,
+          <span class="modal-verse" id="Philippians 4:11-12">Philippians 4:11-12</span> ,
+          <span class="modal-verse" id="Colossians 3:2">Colossians 3:2</span> ,
+          <span class="modal-verse" id="Colossians 3:5">3:5</span> ,
+          <span class="modal-verse" id="1 Timothy 3:3">1 Timothy 3:3</span> ,
+          <span class="modal-verse" id="1 Timothy 3:8">8:3</span> ,
+          <span class="modal-verse" id="1 Timothy 6:5-11">6:5-11</span> ,
+          <span class="modal-verse" id="2 Timothy 2:4">2 Timothy 2:4</span> ,
+          <span class="modal-verse" id="2 Timothy 2:22">2:22</span> ,
+          <span class="modal-verse" id="Titus 1:7">Titus 1:7</span> ,
+          <span class="modal-verse" id="Titus 2:12">2:12</span> ,
+          <span class="modal-verse" id="Hebrews 13:5">Hebrews 13:5</span> ,
+          <span class="modal-verse" id="James 5:1">James 5:1</span> ,
+          <span class="modal-verse" id="1 Peter 2:11">1 Peter 2:11</span> ,
+          <span class="modal-verse" id="1 Peter 4:2">4:2</span> ,
+          <span class="modal-verse" id="1 Peter 5:2">5:2</span> ,
+          <span class="modal-verse" id="1 John 2:15-17">1 John 2:15-17</span> ,
+          <span class="modal-verse" id="James 4:4">James 4:4</span> ,
+          <span class="modal-verse" id="2 Timothy 3:4">2 Timothy 3:4</span> ,
+          <span class="modal-verse" id="2 Timothy 4:10">4:10</span>
+        <li>
+          Envy
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Psalm 37:1">Psalm 37:1</span> ,
+              <span class="modal-verse" id="Proverbs 3:31">Proverbs 3:31</span> ,
+              <span class="modal-verse" id="Proverbs 14:30">14:30</span> ,
+              <span class="modal-verse" id="Proverbs 23:17">23:17</span> ,
+              <span class="modal-verse" id="Proverbs 24:1">24:1</span> ,
+              <span class="modal-verse" id="Proverbs 24:19">24:19</span> ,
+              <span class="modal-verse" id="Proverbs 27:4">27:4</span> ,
+              <span class="modal-verse" id="Romans 1:29">Romans 1:29</span> ,
+              <span class="modal-verse" id="Romans 13:13">13:13</span> ,
+              <span class="modal-verse" id="1 Corinthians 13:4">1 Corinthians 13:4</span> ,
+              <span class="modal-verse" id="2 Corinthians 12:20">2 Corinthians 12:20</span> ,
+              <span class="modal-verse" id="Galatians 5:20-21">Galatians 5:20-21</span> ,
+              <span class="modal-verse" id="Galatians 5:26">5:26</span> ,
+              <span class="modal-verse" id="1 Peter 2:1">1 Peter 2:1</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Let us not be desirous of vain glory
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Galatians 5:26">Galatians 5:26</span> ,
+              <span class="modal-verse" id="Philippians 2:3">Philippians 2:3</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Don’t lust after strange women (for fornication or adultery)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 20:17">Exodus 20:17</span> ,
+              <span class="modal-verse" id="Deuteronomy 5:21">Deuteronomy 5:21</span> ,
+              <span class="modal-verse" id="Proverbs 5:19-21">Proverbs 5:19-21</span> ,
+              <span class="modal-verse" id="Proverbs 6:25">6:25</span> ,
+              <span class="modal-verse" id="Matthew 5:28">Matthew 5:28</span> ,
+              <span class="modal-verse" id="Galatians 5:19">Galatians 5:19</span> ,
+              <span class="modal-verse" id="Colossians 3:5">Colossians 3:5</span> ,
+              <span class="modal-verse" id="1 Thessalonians 4:5">1 Thessalonians 4:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Deny self (don’t live for worldly pleasures)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 21:17">Proverbs 21:17</span> ,
+              <span class="modal-verse" id="Matthew 16:24">Matthew 16:24</span> ,
+              <span class="modal-verse" id="Mark 8:34">Mark 8:34</span> ,
+              <span class="modal-verse" id="Luke 9:23">Luke 9:23</span> ,
+              <span class="modal-verse" id="Romans 15:1">Romans 15:1</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Love others (everybody except haters of God)(saved/unsaved; physical family/strangers; those that hate you/those that love you)</span>
+      <ul class="styled">
+        <li>
+          Brethren
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 19:17">Leviticus 19:17</span> ,
+              <span class="modal-verse" id="Deuteronomy 23:7">Deuteronomy 23:7</span> ,
+              <span class="modal-verse" id="Zechariah 7:10">Zechariah 7:10</span> ,
+              <span class="modal-verse" id="John 13:14-15">John 13:14-15</span> (example),
+              <span class="modal-verse" id="John 13:34-35">13:34-35</span> ,
+              <span class="modal-verse" id="John 15:9">15:9</span> ,
+              <span class="modal-verse" id="John 15:12">15:12</span> ,
+              <span class="modal-verse" id="John 15:17">15:17</span> ,
+              <span class="modal-verse" id="Romans 12:10">Romans 12:10</span> ,
+              <span class="modal-verse" id="Romans 13:8">13:8</span> ,
+              <span class="modal-verse" id="1 Corinthians 16:14">1 Corinthians 16:14</span> ,
+              <span class="modal-verse" id="2 Corinthians 6:13">2 Corinthians 6:13</span> ,
+              <span class="modal-verse" id="2 Corinthians 9:7">9:7</span> ,
+              <span class="modal-verse" id="Galatians 6:10">Galatians 6:10</span> ,
+              <span class="modal-verse" id="Ephesians 4:2">Ephesians 4:2</span> ,
+              <span class="modal-verse" id="1 Timothy 6:2">1 Timothy 6:2</span> ,
+              <span class="modal-verse" id="Hebrews 13:1">Hebrews 13:1</span> ,
+              <span class="modal-verse" id="Hebrews 10:24">10:24</span> ,
+              <span class="modal-verse" id="1 Peter 1:22">1 Peter 1:22</span> ,
+              <span class="modal-verse" id="1 Peter 2:1">2:1</span> ,
+              <span class="modal-verse" id="1 Peter 2:17">2:17</span> ,
+              <span class="modal-verse" id="1 Peter 3:8">3:8</span> ,
+              <span class="modal-verse" id="1 John 3:11">1 John 3:11</span> ,
+              <span class="modal-verse" id="1 John 3:16-18">3:16-18</span> ,
+              <span class="modal-verse" id="1 John 3:23">3:23</span> ,
+              <span class="modal-verse" id="1 John 4:7">4:7</span> ,
+              <span class="modal-verse" id="1 John 4:11">4:11</span> ,
+              <span class="modal-verse" id="1 John 4:21">4:21</span> ,
+              <span class="modal-verse" id="2 John 1:5">2 John 1:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Unsaved
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Corinthians 10:33">1 Corinthians 10:33</span> ,
+              <span class="modal-verse" id="Galatians 6:10">Galatians 6:10</span> ,
+              <span class="modal-verse" id="3 John 1:5">3 John 1:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Family
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 11:29">Proverbs 11:29</span> ,
+              <span class="modal-verse" id="Proverbs 15:17">15:17</span> ,
+              <span class="modal-verse" id="Proverbs 15:20">15:20</span> ,
+              <span class="modal-verse" id="Proverbs 23:22">23:22</span> ,
+              <span class="modal-verse" id="Ephesians 5:25">Ephesians 5:25</span> ,
+              <span class="modal-verse" id="Ephesians 5:28">5:28</span> ,
+              <span class="modal-verse" id="Ephesians 5:33">5:33</span> ,
+              <span class="modal-verse" id="Colossians 3:19">Colossians 3:19</span> ,
+              <span class="modal-verse" id="Titus 2:4">Titus 2:4</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Stranger
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 19:34">Leviticus 19:34</span> ,
+              <span class="modal-verse" id="Deuteronomy 10:19">Deuteronomy 10:19</span> ,
+              <span class="modal-verse" id="Deuteronomy 23:7">23:7</span> ,
+              <span class="modal-verse" id="Matthew 25:35">Matthew 25:35</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Enemy
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 23:4-5">Exodus 23:4-5</span> ,
+              <span class="modal-verse" id="Job 31:29-31">Job 31:29-31</span> ,
+              <span class="modal-verse" id="Proverbs 24:17-18">Proverbs 24:17-18</span> ,
+              <span class="modal-verse" id="Matthew 5:44">Matthew 5:44</span> ,
+              <span class="modal-verse" id="Luke 6:27">Luke 6:27</span> ,
+              <span class="modal-verse" id="Luke 6:35">6:35</span> ,
+              <span class="modal-verse" id="Romans 12:21">Romans 12:21</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Friend
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="John 15:13">John 15:13</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Children
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Matthew 18:10">Matthew 18:10</span> ,
+              <span class="modal-verse" id="Mark 10:14">Mark 10:14</span> ,
+              <span class="modal-verse" id="Luke 18:16">Luke 18:16</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Neighbor (all)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 19:18">Leviticus 19:18</span> ,
+              <span class="modal-verse" id="Proverbs 3:29">Proverbs 3:29</span> ,
+              <span class="modal-verse" id="Proverbs 11:12">11:12</span> ,
+              <span class="modal-verse" id="Proverbs 14:21">14:21</span> ,
+              <span class="modal-verse" id="Hosea 12:6">Hosea 12:6</span> ,
+              <span class="modal-verse" id="Zechariah 8:17">Zechariah 8:17</span> ,
+              <span class="modal-verse" id="Matthew 19:19">Matthew 19:19</span> ,
+              <span class="modal-verse" id="Mark 12:31">Mark 12:31</span> ,
+              <span class="modal-verse" id="Romans 13:9">Romans 13:9</span> ,
+              <span class="modal-verse" id="1 Corinthians 10:24">1 Corinthians 10:24</span> ,
+              <span class="modal-verse" id="Galatians 5:14">Galatians 5:14</span> ,
+              <span class="modal-verse" id="Galatians 5:20">5:20</span> ,
+              <span class="modal-verse" id="Galatians 5:22">5:22</span> ,
+              <span class="modal-verse" id="Galatians 6:10">6:10</span> ,
+              <span class="modal-verse" id="Ephesians 5:2">Ephesians 5:2</span> ,
+              <span class="modal-verse" id="Ephesians 6:7">6:7</span> ,
+              <span class="modal-verse" id="Philippians 2:4">Philippians 2:4</span> ,
+              <span class="modal-verse" id="1 Thessalonians 5:8">1 Thessalonians 5:8</span> ,
+              <span class="modal-verse" id="1 Timothy 6:11">1 Timothy 6:11</span> ,
+              <span class="modal-verse" id="Titus 1:8">Titus 1:8</span> ,
+              <span class="modal-verse" id="James 2:8">James 2:8</span> ,
+              <span class="modal-verse" id="James 2:12">2:12</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Orphan/widow
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="James 1:27">James 1:27</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Charity
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Corinthians 13:1-13">1 Corinthians 13:1-13</span> ,
+              <span class="modal-verse" id="1 Corinthians 14:1">14:1</span> ,
+              <span class="modal-verse" id="1 Corinthians 16:14">16:14</span> ,
+              <span class="modal-verse" id="Colossians 3:14">Colossians 3:14</span> ,
+              <span class="modal-verse" id="2 Timothy 2:22">2 Timothy 2:22</span> ,
+              <span class="modal-verse" id="Titus 2:2">Titus 2:2</span> ,
+              <span class="modal-verse" id="1 Peter 4:8">1 Peter 4:8</span> ,
+              <span class="modal-verse" id="2 Peter 1:7">2 Peter 1:7</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          External
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Matthew 7:12">Matthew 7:12</span> ,
+              <span class="modal-verse" id="Matthew 22:39-40">22:39-40</span> ,
+              <span class="modal-verse" id="Luke 6:31">Luke 6:31</span> ,
+              <span class="modal-verse" id="Luke 6:36">6:36</span> ,
+              <span class="modal-verse" id="Romans 15:1">Romans 15:1</span> ,
+              <span class="modal-verse" id="Galatians 5:13">Galatians 5:13</span> ,
+              <span class="modal-verse" id="Colossians 3:12">Colossians 3:12</span> ,
+              <span class="modal-verse" id="2 Peter 1:7">2 Peter 1:7</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Internal
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Ephesians 4:32">Ephesians 4:32</span> ,
+              <span class="modal-verse" id="Titus 2:7">Titus 2:7</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Internal
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Ephesians 4:32">Ephesians 4:32</span> ,
+              <span class="modal-verse" id="Titus 2:7">Titus 2:7</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Do good especially to the household of faith</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Galatians 6:10">Galatians 6:10</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Hate haters of God; don’t help the ungodly</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 13:8">Deuteronomy 13:8</span> ,
+          <span class="modal-verse" id="Deuteronomy 19:13">19:13</span> ,
+          <span class="modal-verse" id="Deuteronomy 19:21">19:21</span> ,
+          <span class="modal-verse" id="Judges 5:31">Judges 5:31</span> ,
+          <span class="modal-verse" id="2 Chronicles 19:2">2 Chronicles 19:2</span> ,
+          <span class="modal-verse" id="Psalm 15:4">Psalm 15:4</span> ,
+          <span class="modal-verse" id="Psalm 26:5">26:5</span> ,
+          <span class="modal-verse" id="Psalm 31:6">31:6</span> ,
+          <span class="modal-verse" id="Psalm 40:4">40:4</span> ,
+          <span class="modal-verse" id="Psalm 139:21-22">139:21-22</span> ,
+          <span class="modal-verse" id="Proverbs 28:4">Proverbs 28:4</span> ,
+          <span class="modal-verse" id="Proverbs 29:27">29:27</span> ,
+          <span class="modal-verse" id="1 Corinthians 16:22">1 Corinthians 16:22</span> ,
+          <span class="modal-verse" id="Revelation 2:2">Revelation 2:2</span>
+        </li>
+        <li>
+          Let them alone (do not help/appease them)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Matthew 15:14">Matthew 15:14</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="money">MONEY (<span class="modal-verse" id="Proverbs 3:9">PROVERBS 3:9</span>)</h3>
+  <ol>
+    <li>
+      <span class="main-li">Possessions</span>
+      <ul class="styled">
+        <li>
+          Remember God (that He gives me the power to get wealth)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 6:12">Deuteronomy 6:12</span> ,
+              <span class="modal-verse" id="Deuteronomy 8:2">8:2</span> ,
+              <span class="modal-verse" id="Deuteronomy 8:11">8:11</span> ,
+              <span class="modal-verse" id="Deuteronomy 8:18">8:18</span> ,
+              <span class="modal-verse" id="1 Timothy 6:17">1 Timothy 6:17</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Know the state of your flock (budget/assessment; don’t waste your resources)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 12:27">Proverbs 12:27</span> ,
+              <span class="modal-verse" id="Proverbs 14:4">14:4</span> ,
+              <span class="modal-verse" id="Proverbs 18:9">18:9</span> ,
+              <span class="modal-verse" id="Proverbs 27:23-27">27:23-27</span> ,
+              <span class="modal-verse" id="John 6:12">John 6:12</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Lay not for yourselves treasures upon the earth, nor greatly multiply your silver and gold (or horses: possessions)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 17:16-17">Deuteronomy 17:16-17</span> (for kings),
+              <span class="modal-verse" id="Proverbs 23:4-5">Proverbs 23:4-5</span> ,
+              <span class="modal-verse" id="Matthew 6:19">Matthew 6:19</span> ,
+              <span class="modal-verse" id="Matthew 6:24">6:24</span> ,
+              <span class="modal-verse" id="Luke 12:21">Luke 12:21</span> ,
+              <span class="modal-verse" id="Luke 14:33">14:33</span> ,
+              <span class="modal-verse" id="Luke 16:13">16:13</span> ,
+              <span class="modal-verse" id="Proverbs 11:26">Proverbs 11:26</span>
+            </li>
+            <li>
+              Note: “lay up” means to store; put out of active service; or collect
+            </li>
+          </ul>
+        </li>
+        <li>
+          Have a purse (wallet)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Luke 22:35-36">Luke 22:35-36</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Have a scrip (bag for possessions)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Luke 22:35-36">Luke 22:35-36</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Leave an inheritance
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 13:22">Proverbs 13:22</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Debt</span>
+      <ul class="styled">
+        <li>
+          Pay your debts
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Psalm 37:21">Psalm 37:21</span> ,
+              <span class="modal-verse" id="Romans 13:8">Romans 13:8</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Provide physical needs (food, water, shelter, clothing)</span>
+      <ul class="styled">
+        <li>
+          Husbands to the wife/family
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Genesis 3:17-19">Genesis 3:17-19</span> ,
+              <span class="modal-verse" id="Exodus 21:10">Exodus 21:10</span> ,
+              <span class="modal-verse" id="Ephesians 5:28-29">Ephesians 5:28-29</span> ,
+              <span class="modal-verse" id="1 Timothy 5:8">1 Timothy 5:8</span> ,
+              <span class="modal-verse" id="1 Timothy 5:16">5:16</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Children/grandchildren repay your parents
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Matthew 15:5-6">Matthew 15:5-6</span> ,
+              <span class="modal-verse" id="Mark 7:11-12">Mark 7:11-12</span> ,
+              <span class="modal-verse" id="John 19:26-27">John 19:26-27</span> ,
+              <span class="modal-verse" id="1 Timothy 5:4">1 Timothy 5:4</span> ,
+              <span class="modal-verse" id="1 Timothy 5:16">5:16</span> (Nephew archaic definition)
+            </li>
+          </ul>
+        </li>
+        <li>
+          Believer to poor brethren
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 25:35">Leviticus 25:35</span> ,
+              <span class="modal-verse" id="Matthew 10:40-42">Matthew 10:40-42</span> ,
+              <span class="modal-verse" id="Matthew 25:35">25:35</span> ,
+              <span class="modal-verse" id="Matthew 25:40">25:40</span> ,
+              <span class="modal-verse" id="Mark 9:37">Mark 9:37</span> ,
+              <span class="modal-verse" id="Mark 9:41">9:41</span> ,
+              <span class="modal-verse" id="Luke 9:48">Luke 9:48</span> ,
+              <span class="modal-verse" id="Romans 12:13">Romans 12:13</span> ,
+              <span class="modal-verse" id="Galatians 6:2">Galatians 6:2</span> ,
+              <span class="modal-verse" id="1 Thessalonians 5:14">1 Thessalonians 5:14</span> ,
+              <span class="modal-verse" id="1 Timothy 3:2">1 Timothy 3:2</span> ,
+              <span class="modal-verse" id="Titus 1:8">Titus 1:8</span> ,
+              <span class="modal-verse" id="Hebrews 13:2">Hebrews 13:2</span> ,
+              <span class="modal-verse" id="1 Peter 4:9">1 Peter 4:9</span> ,
+              <span class="modal-verse" id="1 John 3:17">1 John 3:17</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Your enemy (food and water)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Romans 12:20">Romans 12:20</span> ,
+              <span class="modal-verse" id="Proverbs 25:21-22">Proverbs 25:21-22</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          The poor (unspecified)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Ezekiel 18:7">Ezekiel 18:7</span> ,
+              <span class="modal-verse" id="Job 29:16">Job 29:16</span> ,
+              <span class="modal-verse" id="Job 31:16-20">31:16-20</span> ,
+              <span class="modal-verse" id="Job 31:32">31:32</span> ,
+              <span class="modal-verse" id="Proverbs 11:25">Proverbs 11:25</span> ,
+              <span class="modal-verse" id="Proverbs 14:21">14:21</span> ,
+              <span class="modal-verse" id="Proverbs 14:31">14:31</span> ,
+              <span class="modal-verse" id="Proverbs 19:17">19:17</span> ,
+              <span class="modal-verse" id="Proverbs 21:13">21:13</span> ,
+              <span class="modal-verse" id="Proverbs 22:9">22:9</span> ,
+              <span class="modal-verse" id="Proverbs 28:27">28:27</span> ,
+              <span class="modal-verse" id="Proverbs 30:14">30:14</span> ,
+              <span class="modal-verse" id="Proverbs 31:20">31:20</span> ,
+              <span class="modal-verse" id="Isaiah 58:7">Isaiah 58:7</span> ,
+              <span class="modal-verse" id="Matthew 19:21">Matthew 19:21</span> ,
+              <span class="modal-verse" id="Mark 10:21">Mark 10:21</span> ,
+              <span class="modal-verse" id="Luke 3:11">Luke 3:11</span> ,
+              <span class="modal-verse" id="Luke 11:41">11:41</span> ,
+              <span class="modal-verse" id="Luke 12:33">12:33</span> ,
+              <span class="modal-verse" id="Ephesians 4:28">Ephesians 4:28</span> ,
+              <span class="modal-verse" id="1 Timothy 6:18">1 Timothy 6:18</span> ,
+              <span class="modal-verse" id="Hebrews 13:16">Hebrews 13:16</span>
+            <li>
+              Note: not the rich
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Proverbs 22:16">Proverbs 22:16</span> ,
+                  <span class="modal-verse" id="Luke 14:12-14">Luke 14:12-14</span>
+                </li>
+              </ul>
+            </li>
+            <li>
+              Laborers for God
+              <ul class="sub">
+                <li>
+                  <span class="modal-verse" id="3 John 1:8">3 John 1:8</span> ,
+                  <span class="modal-verse" id="Philippians 2:29">Philippians 2:29</span> ,
+                  <span class="modal-verse" id="2 Corinthians 7:2">2 Corinthians 7:2</span> ,
+                  <span class="modal-verse" id="Colossians 4:10">Colossians 4:10</span> ,
+                  <span class="modal-verse" id="Titus 3:13-14">Titus 3:13-14</span>
+                </li>
+              </ul>
+            </li>
+            <li>
+              Receive him not into your house (false prophet)
+              <ul class="sub">
+                <li>
+                  <span class="modal-verse" id="2 John 1:10">2 John 1:10</span>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Giving</span>
+      <ul class="styled">
+        <li>
+          Give/lend (to brother) cheerfully
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 15:10">Deuteronomy 15:10</span> ,
+              <span class="modal-verse" id="Romans 12:8">Romans 12:8</span> ,
+              <span class="modal-verse" id="2 Corinthians 9:7">2 Corinthians 9:7</span> ,
+              <span class="modal-verse" id="1 Peter 4:9">1 Peter 4:9</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Give (alms) with simplicity (with sincerity; not to be seen of men)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Matthew 6:1-4">Matthew 6:1-4</span> ,
+              <span class="modal-verse" id="Romans 12:8">Romans 12:8</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Give to him that asks you
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 21:26">Proverbs 21:26</span> ,
+              <span class="modal-verse" id="Matthew 5:42">Matthew 5:42</span> ,
+              <span class="modal-verse" id="Luke 6:30">Luke 6:30</span> ,
+              <span class="modal-verse" id="Luke 6:38">Luke 6:38</span>
+            </li>
+            <li>
+              Note: there is a concept of refusing in the Bible: young widows; those who are lazy; false prophets
+            </li>
+          </ul>
+        </li>
+        <li>
+          Give gifts
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Luke 16:9">Luke 16:9</span> ,
+              <span class="modal-verse" id="Proverbs 17:8">Proverbs 17:8</span> ,
+              <span class="modal-verse" id="Proverbs 18:16">18:16</span> ,
+              <span class="modal-verse" id="Proverbs 19:6">19:6</span> ,
+              <span class="modal-verse" id="Proverbs 21:14">21:14</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Be reconciled with thy brother before giving your offering
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Matthew 5:23-24">Matthew 5:23-24</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Financial responsibility</span>
+      <ul class="styled">
+        <li>
+          First prepare your work (before you buy the house, start the family, etc.)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 24:27">Proverbs 24:27</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Tithing</span>
+      <ul class="styled">
+        <li>
+          Pay 1/10 of your increase unto the Lord
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Genesis 14:20">Genesis 14:20</span> ,
+              <span class="modal-verse" id="Genesis 28:22">28:22</span> ,
+              <span class="modal-verse" id="Leviticus 27:30">Leviticus 27:30</span> ,
+              <span class="modal-verse" id="Leviticus 27:32">27:32</span> ,
+              <span class="modal-verse" id="Malachi 3:8-10">Malachi 3:8-10</span> ,
+              <span class="modal-verse" id="Matthew 22:21">Matthew 22:21</span> ,
+              <span class="modal-verse" id="Matthew 23:23">23:23</span> ,
+              <span class="modal-verse" id="Mark 12:17">Mark 12:17</span> ,
+              <span class="modal-verse" id="Luke 11:42">Luke 11:42</span> ,
+              <span class="modal-verse" id="Luke 18:12">18:12</span> ,
+              <span class="modal-verse" id="Luke 20:25">20:25</span> ,
+              <span class="modal-verse" id="1 Corinthians 9:3-14">1 Corinthians 9:3-14</span> ,
+              <span class="modal-verse" id="1 Corinthians 16:2">16:2</span> ,
+              <span class="modal-verse" id="Hebrews 7:8">Hebrews 7:8</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Business Ethics</span>
+      <ul class="styled">
+        <li>
+          Hate suretyship
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 6:1-5">Proverbs 6:1-5</span> ,
+              <span class="modal-verse" id="Proverbs 11:15">11:15</span> ,
+              <span class="modal-verse" id="Proverbs 17:18">17:18</span> ,
+              <span class="modal-verse" id="Proverbs 20:16">20:16</span> ,
+              <span class="modal-verse" id="Proverbs 22:26">22:26</span> ,
+              <span class="modal-verse" id="Proverbs 27:13">27:13</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          The wages of him that is hired shall not abide with thee all night until the morning
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 19:13">Leviticus 19:13</span> ,
+              <span class="modal-verse" id="Deuteronomy 24:14-15">Deuteronomy 24:14-15</span> ,
+              <span class="modal-verse" id="Malachi 3:5">Malachi 3:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Thou shalt not steal
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 20:15">Exodus 20:15</span> ,
+              <span class="modal-verse" id="Leviticus 19:11">Leviticus 19:11</span> ,
+              <span class="modal-verse" id="Deuteronomy 5:19">Deuteronomy 5:19</span> ,
+              <span class="modal-verse" id="Matthew 19:18">Matthew 19:18</span> ,
+              <span class="modal-verse" id="Mark 7:22">Mark 7:22</span> ,
+              <span class="modal-verse" id="Mark 10:19">10:19</span> ,
+              <span class="modal-verse" id="Luke 18:20">Luke 18:20</span> ,
+              <span class="modal-verse" id="Ephesians 4:28">Ephesians 4:28</span> ,
+              <span class="modal-verse" id="Romans 13:9">Romans 13:9</span> ,
+              <span class="modal-verse" id="1 Timothy 1:10">1 Timothy 1:10</span> ,
+              <span class="modal-verse" id="Titus 2:10">Titus 2:10</span> ,
+              <span class="modal-verse" id="1 Peter 4:15">1 Peter 4:15</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          False balance
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 19:35-36">Leviticus 19:35-36</span> ,
+              <span class="modal-verse" id="Deuteronomy 25:13-15">Deuteronomy 25:13-15</span> ,
+              <span class="modal-verse" id="Proverbs 11:1">Proverbs 11:1</span> ,
+              <span class="modal-verse" id="Proverbs 16:11">16:11</span> ,
+              <span class="modal-verse" id="Proverbs 20:23">20:23</span> ,
+              <span class="modal-verse" id="Ezekiel 45:10">Ezekiel 45:10</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Defraud not
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 6:2">Leviticus 6:2</span> ,
+              <span class="modal-verse" id="Leviticus 19:13">19:13</span> ,
+              <span class="modal-verse" id="Deuteronomy 24:14-15">Deuteronomy 24:14-15</span> ,
+              <span class="modal-verse" id="Proverbs 13:11">Proverbs 13:11</span> ,
+              <span class="modal-verse" id="Proverbs 21:6">21:6</span> ,
+              <span class="modal-verse" id="Proverbs 22:22">22:22</span> ,
+              <span class="modal-verse" id="Jeremiah 22:13">Jeremiah 22:13</span> ,
+              <span class="modal-verse" id="Mark 10:19">Mark 10:19</span> ,
+              <span class="modal-verse" id="1 Thessalonians 4:6">1 Thessalonians 4:6</span> ,
+              <span class="modal-verse" id="James 5:4">James 5:4</span>
+            </li>
+            <li>
+              Meaning: to take something that belongs to someone through deceit/cheating/lying/tricks
+            </li>
+          </ul>
+        </li>
+        <li>
+          Extortion/robbery
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 6:2">Leviticus 6:2</span> ,
+              <span class="modal-verse" id="Leviticus 19:13">19:13</span> ,
+              <span class="modal-verse" id="Proverbs 1:15">Proverbs 1:15</span> ,
+              <span class="modal-verse" id="Proverbs 21:7">21:7</span> ,
+              <span class="modal-verse" id="Proverbs 22:22">22:22</span> ,
+              <span class="modal-verse" id="Proverbs 28:24">28:24</span> ,
+              <span class="modal-verse" id="Ezekiel 18:7">Ezekiel 18:7</span> ,
+              <span class="modal-verse" id="Ezekiel 22:12">22:12</span> ,
+              <span class="modal-verse" id="Ezekiel 45:9">45:9</span> ,
+              <span class="modal-verse" id="Luke 3:13">Luke 3:13</span> ,
+              <span class="modal-verse" id="1 Corinthians 6:10">1 Corinthians 6:10</span>
+            </li>
+            <li>
+              Meaning: to take something that belongs to someone through force or threats
+            </li>
+          </ul>
+        </li>
+        <li>
+          Restore lost property
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 23:4">Exodus 23:4</span> ,
+              <span class="modal-verse" id="Leviticus 6:3">Leviticus 6:3</span> ,
+              <span class="modal-verse" id="Deuteronomy 22:1-3">Deuteronomy 22:1-3</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Lending</span>
+      <ul class="styled">
+        <li>
+          Lend to poor brethren
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 15:7-11">Deuteronomy 15:7-11</span> ,
+              <span class="modal-verse" id="Psalm 112:5">Psalm 112:5</span> ,
+              <span class="modal-verse" id="Matthew 5:42">Matthew 5:42</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Hope for nothing in return (when lending)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 15:9">Deuteronomy 15:9</span> ,
+              <span class="modal-verse" id="Luke 6:30">Luke 6:30</span> ,
+              <span class="modal-verse" id="Luke 6:35">6:35</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Thou shalt not lend upon usury to thy brother (charging interest)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 22:25">Exodus 22:25</span> ,
+              <span class="modal-verse" id="Leviticus 25:35-37">Leviticus 25:35-37</span> ,
+              <span class="modal-verse" id="Deuteronomy 23:19-20">Deuteronomy 23:19-20</span> ,
+              <span class="modal-verse" id="Nehemiah 5:9-11">Nehemiah 5:9-11</span> ,
+              <span class="modal-verse" id="Psalm 15:5">Psalm 15:5</span> ,
+              <span class="modal-verse" id="Proverbs 28:8">Proverbs 28:8</span> ,
+              <span class="modal-verse" id="Ezekiel 18:8">Ezekiel 18:8</span> ,
+              <span class="modal-verse" id="Ezekiel 22:12">22:12</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Don’t hold your poor neighbor’s pledge (collateral) overnight (clothing)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 22:26-27">Exodus 22:26-27</span> ,
+              <span class="modal-verse" id="Deuteronomy 24:12-13">Deuteronomy 24:12-13</span> ,
+              <span class="modal-verse" id="Ezekiel 18:7">Ezekiel 18:7</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Don’t go into thy brother’s house to fetch his pledge: wait for him to bring it out
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 24:10-11">Deuteronomy 24:10-11</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Don’t take a widow’s raiment to pledge
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 24:17">Deuteronomy 24:17</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Don’t take the nether or upper millstone as a pledge
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 24:6">Deuteronomy 24:6</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Take the pledge of the stranger
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Proverbs 20:16">Proverbs 20:16</span> ,
+              <span class="modal-verse" id="Proverbs 27:13">27:13</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="new-testament-church">NEW TESTAMENT CHURCH</h3>
+  <ol>
+    <li>
+      <span class="main-li">Note: the word “Church” is used interchangeably with congregation</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Hebrews 2:12">Hebrews 2:12</span> quotes <span class="modal-verse" id="Psalm 22:22">Psalm 22:22</span>
+        </li>
+        <li>
+          also <span class="modal-verse" id="Acts 7:38">Acts 7:38</span>, all of the congregation of the children of Israel is quoted as “church in the wilderness”
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Go to church</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 12:5">Deuteronomy 12:5</span> ,
+          <span class="modal-verse" id="Hebrews 10:25">Hebrews 10:25</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Follow men of God (spiritual leaders)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Corinthians 4:16">1 Corinthians 4:16</span> ,
+          <span class="modal-verse" id="1 Corinthians 11:1">11:1</span> ,
+          <span class="modal-verse" id="Philippians 3:17">Philippians 3:17</span> ,
+          <span class="modal-verse" id="Hebrews 6:12">Hebrews 6:12</span> ,
+          <span class="modal-verse" id="Hebrews 13:7">13:7</span> ,
+          <span class="modal-verse" id="James 5:10">James 5:10</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Be of one mind/spirit (teamwork, unity)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Mark 3:25">Mark 3:25</span> ,
+          <span class="modal-verse" id="Romans 15:5-7">Romans 15:5-7</span> ,
+          <span class="modal-verse" id="1 Corinthians 1:10">1 Corinthians 1:10</span> ,
+          <span class="modal-verse" id="2 Corinthians 13:11">2 Corinthians 13:11</span> ,
+          <span class="modal-verse" id="Ephesians 4:3">Ephesians 4:3</span> ,
+          <span class="modal-verse" id="Philippians 1:27">Philippians 1:27</span> ,
+          <span class="modal-verse" id="Philippians 2:2">2:2</span> ,
+          <span class="modal-verse" id="Philippians 3:16">3:16</span> ,
+          <span class="modal-verse" id="1 Peter 3:8">1 Peter 3:8</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Make not my Father’s house a house of merchandise</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Matthew 21:12-13">Matthew 21:12-13</span> ,
+          <span class="modal-verse" id="Mark 11:15-17">Mark 11:15-17</span> ,
+          <span class="modal-verse" id="Luke 19:45-46">Luke 19:45-46</span> ,
+          <span class="modal-verse" id="John 2:16">John 2:16</span>
+        </li>
+        <li>
+          Meaning: there shouldn’t be buying or selling of goods or services in the church building
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">A foreign speaker is required to translate or have a translator in the church</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Corinthians 14:13">1 Corinthians 14:13</span> ,
+          <span class="modal-verse" id="1 Corinthians 14:27-28">14:27-28</span> ,
+          <span class="modal-verse" id="1 Corinthians 14:33">14:33</span>
+        </li>
+        <li>
+          Note: “Tongues” is used interchangeably with language
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Acts 2:1-13">Acts 2:1-13</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">A maximum of 3 preachers in a church service is permitted</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Corinthians 14:29">1 Corinthians 14:29</span> ,
+          <span class="modal-verse" id="1 Corinthians 14:33">14:33</span>
+        </li>
+        <li>
+          Note: a preacher isn’t necessarily the pastor/bishop/etc
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">One man speaks at a time (in church) - no interrupting</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Corinthians 14:30-33">1 Corinthians 14:30-33</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Women keep silence in the churches</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Corinthians 14:34-35">1 Corinthians 14:34-35</span> ,
+          <span class="modal-verse" id="1 Timothy 2:11-12">1 Timothy 2:11-12</span> ,
+          <span class="modal-verse" id="Revelation 2:20">Revelation 2:20</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Do not call a religious leader rabbi, master or father (rabbi means master. God is your spiritual master and father</span>
+      <ul class="styled">
+        <li>
+          Note: according to the flesh
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Colossians 3:22">Colossians 3:22</span> ,
+              <span class="modal-verse" id="Colossians 4:1">4:1</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <span class="modal-verse" id="Matthew 23:8-10">Matthew 23:8-10</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Widows who fulfill these requirements can go to the church for assistance</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Timothy 5:5">1 Timothy 5:5</span> ,
+          <span class="modal-verse" id="1 Timothy 5:9-16">9-16:5</span>
+        </li>
+        <li>
+          Husband is dead
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Timothy 5:5">1 Timothy 5:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Born again-saved
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Timothy 5:5">1 Timothy 5:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          At least 60 years old
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Timothy 5:9">1 Timothy 5:9</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Practiced monogamy in marriage
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Timothy 5:9">1 Timothy 5:9</span> ,
+              <span class="modal-verse" id="1 Timothy 5:14">5:14</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Godly- well reported of good works
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Timothy 5:5-6">1 Timothy 5:5-6</span> ,
+              <span class="modal-verse" id="1 Timothy 5:10">5:10</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Let all things be done decently and in order (with the purpose of edifying other believers)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Corinthians 14:26">1 Corinthians 14:26</span> ,
+          <span class="modal-verse" id="1 Corinthians 14:40">14:40</span> ,
+          <span class="modal-verse" id="2 Corinthians 12:20">2 Corinthians 12:20</span> (tumult)
+        </li>
+        <li>
+          Principle: Elder = Bishop = Pastor = Overseer = Steward
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Titus 1:5">Titus 1:5</span> ,
+              <span class="modal-verse" id="Titus 1:7">1:7</span> ,
+              <span class="modal-verse" id="Acts 20:17">Acts 20:17</span> ,
+              <span class="modal-verse" id="Acts 20:28">20:28</span> ,
+              <span class="modal-verse" id="1 Peter 5:1-2">1 Peter 5:1-2</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Pastors and deacons must fulfill biblical requirements
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Timothy 3:2-7">1 Timothy 3:2-7</span> ,
+              <span class="modal-verse" id="1 Timothy 3:8-12">8-12</span> ,
+              <span class="modal-verse" id="Titus 1:6-9">Titus 1:6-9</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Pastors and deacons (and spiritual workers) are paid from the church
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Deuteronomy 25:4">Deuteronomy 25:4</span> ,
+              <span class="modal-verse" id="Acts 6:2">Acts 6:2</span> ,
+              <span class="modal-verse" id="Romans 15:27">Romans 15:27</span> ,
+              <span class="modal-verse" id="1 Corinthians 9">1 Corinthians 9</span> (note: altogether),
+              <span class="modal-verse" id="Galatians 6:6">Galatians 6:6</span> (“communicate” here means to give),
+              <span class="modal-verse" id="1 Timothy 5:17-18">1 Timothy 5:17-18</span> ,
+              <span class="modal-verse" id="Hebrews 13:7">Hebrews 13:7</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Pastors oversee the church (administer/supervisor)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Acts 20:28">Acts 20:28</span> ,
+              <span class="modal-verse" id="1 Peter 5:2">1 Peter 5:2</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Pastors don’t rule as a lord
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Mark 10:42-45">Mark 10:42-45</span> ,
+              <span class="modal-verse" id="1 Peter 5:2-3">1 Peter 5:2-3</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Pastor: commit the distribution of God’s word to faithful men
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="2 Timothy 2:2">2 Timothy 2:2</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Ordain elders in every city
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Titus 1:5">Titus 1:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Lay hands on no man suddenly
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Timothy 5:22">1 Timothy 5:22</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="obeying-authority">OBEYING AUTHORITY</h3>
+  <ol>
+    <li>
+      <span class="main-li">Obey your authorities (in general)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Romans 13:1-2">Romans 13:1-2</span> ,
+          <span class="modal-verse" id="Galatians 5:20">Galatians 5:20</span> ,
+          <span class="modal-verse" id="Ephesians 5:21">Ephesians 5:21</span> ,
+          <span class="modal-verse" id="1 Peter 5:5">1 Peter 5:5</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Wife to husband</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Proverbs 7:11">Proverbs 7:11</span> ,
+          <span class="modal-verse" id="Proverbs 19:13">19:13</span> ,
+          <span class="modal-verse" id="Proverbs 21:9">21:9</span> ,
+          <span class="modal-verse" id="Proverbs 21:19">21:19</span> ,
+          <span class="modal-verse" id="Proverbs 25:24">25:24</span> ,
+          <span class="modal-verse" id="Proverbs 27:15-16">27:15-16</span> ,
+          <span class="modal-verse" id="Ephesians 5:22-24">Ephesians 5:22-24</span> ,
+          <span class="modal-verse" id="1 Peter 3:1">1 Peter 3:1</span> ,
+          <span class="modal-verse" id="1 Peter 3:5">3:5</span> ,
+          <span class="modal-verse" id="1 Peter 3:6">3:6</span> ,
+          <span class="modal-verse" id="Titus 2:5">Titus 2:5</span> ,
+          <span class="modal-verse" id="Colossians 3:18">Colossians 3:18</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Children to parents</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Proverbs 1:8">Proverbs 1:8</span> ,
+          <span class="modal-verse" id="Proverbs 4:1-4">4:1-4</span> ,
+          <span class="modal-verse" id="Proverbs 4:10">4:10</span> ,
+          <span class="modal-verse" id="Proverbs 6:20-23">6:20-23</span> ,
+          <span class="modal-verse" id="Proverbs 13:1">13:1</span> ,
+          <span class="modal-verse" id="Proverbs 15:5">15:5</span> ,
+          <span class="modal-verse" id="Proverbs 23:22">23:22</span> ,
+          <span class="modal-verse" id="Proverbs 23:26">23:26</span> ,
+          <span class="modal-verse" id="Ephesians 6:1">Ephesians 6:1</span> ,
+          <span class="modal-verse" id="Colossians 3:20">Colossians 3:20</span> ,
+          <span class="modal-verse" id="1 Timothy 3:4">1 Timothy 3:4</span> ,
+          <span class="modal-verse" id="1 Timothy 3:12">3:12</span> ,
+          <span class="modal-verse" id="Titus 1:6">Titus 1:6</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Servants to masters</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Samuel 22:14">1 Samuel 22:14</span> ,
+          <span class="modal-verse" id="Ephesians 6:5">Ephesians 6:5</span> ,
+          <span class="modal-verse" id="Colossians 3:22">Colossians 3:22</span> ,
+          <span class="modal-verse" id="1 Timothy 6:2">1 Timothy 6:2</span> ,
+          <span class="modal-verse" id="Titus 2:9-10">Titus 2:9-10</span> ,
+          <span class="modal-verse" id="1 Peter 2:18">1 Peter 2:18</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Congregation to pastor & ministry workers (within church role)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="1 Corinthians 16:16">1 Corinthians 16:16</span> ,
+          <span class="modal-verse" id="Hebrews 13:17">Hebrews 13:17</span> ,
+          <span class="modal-verse" id="1 Peter 5:5">1 Peter 5:5</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Citizen to civil authority/laws (within government role)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Deuteronomy 17:10-11">Deuteronomy 17:10-11</span> ,
+          <span class="modal-verse" id="Romans 13:5">Romans 13:5</span> ,
+          <span class="modal-verse" id="Titus 3:1">Titus 3:1</span> ,
+          <span class="modal-verse" id="1 Peter 2:13-14">1 Peter 2:13-14</span> ,
+          <span class="modal-verse" id="1 Peter 4:6">4:6</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Exception: Don’t obey commands to sin</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Acts 4:19">Acts 4:19</span> ,
+          <span class="modal-verse" id="Acts 5:29">5:29</span> ,
+          <span class="modal-verse" id="Romans 13:1">Romans 13:1</span> (chain of command),
+          <span class="modal-verse" id="Daniel 1:8-9">Daniel 1:8-9</span> ,
+          <span class="modal-verse" id="Exodus 1:17">Exodus 1:17</span> ,
+          <span class="modal-verse" id="Exodus 1:21">1:21</span> ,
+          <span class="modal-verse" id="1 Kings 18:3-4">1 Kings 18:3-4</span>
+          <ul class="sub">
+            <li>
+              God’s commands have pre-eminence over man’s commands
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="patience">PATIENCE</h3>
+  <ol>
+    <li>
+      <span class="main-li">Be Patient</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Ecclesiastes 7:8">Ecclesiastes 7:8</span> ,
+          <span class="modal-verse" id="Luke 21:19">Luke 21:19</span> ,
+          <span class="modal-verse" id="Romans 12:12">Romans 12:12</span> ,
+          <span class="modal-verse" id="1 Thessalonians 5:14">1 Thessalonians 5:14</span> ,
+          <span class="modal-verse" id="1 Timothy 3:3">1 Timothy 3:3</span> ,
+          <span class="modal-verse" id="1 Timothy 6:11">6:11</span> ,
+          <span class="modal-verse" id="2 Timothy 2:24">2 Timothy 2:24</span> ,
+          <span class="modal-verse" id="2 Timothy 4:2">4:2</span> ,
+          <span class="modal-verse" id="Titus 2:2">Titus 2:2</span> ,
+          <span class="modal-verse" id="James 1:4">James 1:4</span> ,
+          <span class="modal-verse" id="James 5:7-8">5:7-8</span> ,
+          <span class="modal-verse" id="James 5:10">5:10</span> ,
+          <span class="modal-verse" id="2 Peter 1:6">2 Peter 1:6</span> ,
+          <span class="modal-verse" id="2 Peter 3:15">3:15</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Wait upon the Lord</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Psalm 27:14">Psalm 27:14</span> ,
+          <span class="modal-verse" id="Psalm 37:7">37:7</span> ,
+          <span class="modal-verse" id="Psalm 37:34">37:34</span> ,
+          <span class="modal-verse" id="Proverbs 20:22">Proverbs 20:22</span> ,
+          <span class="modal-verse" id="Zephaniah 3:8">Zephaniah 3:8</span> ,
+          <span class="modal-verse" id="Hosea 12:6">Hosea 12:6</span>
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="physical">PHYSICAL</h3>
+  <ol>
+    <li>
+      <span class="main-li">Hair</span>
+      <ul class="styled">
+        <li>
+          Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 19:27">Leviticus 19:27</span> ,
+              <span class="modal-verse" id="Leviticus 21:5">Leviticus 21:5</span> ,
+              <span class="modal-verse" id="Deuteronomy 14:1">Deuteronomy 14:1</span> ,
+              <span class="modal-verse" id="Ezekiel 44:20">Ezekiel 44:20</span>
+              <ul class="styled">
+                <li>
+                  Meaning: Not to shave off part/whole of the head and not shave off parts of the beard to disfigure. This prohibits mohawk, carving designs in the head or beard, etc.
+                  <ul class="sub">
+                    <li>
+                      Note: Full shaving is often done during times of mourning
+                      <ul class="styled">
+                        <li>
+                          <span class="modal-verse" id="Deuteronomy 21:12-13">Deuteronomy 21:12-13</span> ,
+                          <span class="modal-verse" id="Job 1:20">Job 1:20</span> ,
+                          <span class="modal-verse" id="Job 1:22">1:22</span> ,
+                          <span class="modal-verse" id="Jeremiah 7:29">Jeremiah 7:29</span> ,
+                          <span class="modal-verse" id="Micah 1:16">Micah 1:16</span>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Men should have short hair; women should have long hair
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="1 Corinthians 6:9">1 Corinthians 6:9</span> ,
+              <span class="modal-verse" id="1 Corinthians 11:1-16">1 Corinthians 11:1-16</span> ,
+              <span class="modal-verse" id="Ezekiel 44:20">Ezekiel 44:20</span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Skin</span>
+      <ul class="styled">
+        <li>
+          Ye shall not make any cuttings in your flesh
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 19:28">Leviticus 19:28</span> ,
+              <span class="modal-verse" id="Leviticus 21:5">21:5</span> ,
+              <span class="modal-verse" id="Deuteronomy 14:1">Deuteronomy 14:1</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          No tattoos
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Leviticus 19:28">Leviticus 19:28</span>
+            </li>
+          </ul>
         </li>
       </ul>
     </li>
   </ol>
   <br />
-  , c. : ,
-  , , , d. Don’t bow down to
-  other gods: Exodus 20:5, 23:24, Deuteronomy 5:9, Joshua 23:7, 2 Kings
-  17:35 e. Don’t swear by the names of other gods: Exodus 23:32, Joshua
-  23:7 f. Make no mention of the names of other gods (In a way that
-  regards them as a real god): Exodus 23:13, Joshua 23:7 g. Don’t
-  sacrifice to other gods: Leviticus 18:21, Deuteronomy 18:10, 2 Kings
-  17:35 h. Don’t fear other gods: Judges 6:10, 2 Kings 17:35,37,38 1. No
-  Images (statues/pictures) a. Don’t make: Exodus 20:4,23, 34:17,
-  Leviticus 19:4, 26:1, Deuteronomy 4:25, 5:8, 27:15, Acts 17:29-30 b.
-  Don’t set up: Leviticus 26:1, Deuteronomy 16:22, 27:15 c. Don’t
-  take/bring: Deuteronomy 7:25-26, 13:17 d. Don’t desire it’s silver/gold:
-  Deuteronomy 7:25-26 Note: It’s ok to have a statue or picture if it
-  doesn’t represent a god: 1)There were statues in the temple/tabernacle
-  that God commanded or condoned (Exodus 25:18, Numbers 21:8, 1 Kings
-  6:27, etc.). 2)Exodus 20, v. 4 and v. 5 are one sentence (one command).
-  3)Idols are nothing; only if you regard them (1 Corinthians 10:19). …But
-  it’s never ok to have a picture or statue of the God of the bible:
-  Deuteronomy 4:12-18, Acts 18:29 3. Ye shall not observe times •
-  Leviticus 19:26, Deuteronomy 18:10, Jeremiah 10:2 • Meaning observing
-  pagan holidays. Note: it is put in the same verse as enchantments. Note:
-  Galatians 4:10 4. Voluntary humility (asceticism); be not righteous over
-  much (going into religious extremes/pushing yourself above what’s
-  required) • Proverbs 10:15, 30:8, Colossians 2:18 (v.23): 1 Timothy
-  4:1-3; Ecclesiastes 7:16-18, 12:12, Mark 6:31 5. Worshiping of angels
-  (over the top exaltation: angelic beings, saints) • Colossians 2:18,
-  Revelation 19:10, 22:9 6. Witchcraft (demonic activity) • Leviticus
-  19:26,31, 20:6, Deuteronomy 18:9-12,14, Galatians 5:20 7. Thou shalt not
-  revile the gods (verbal abuse; rail) • Exodus 22:28, 2 Peter 2:11, Jude
-  1:9. {Applies to blaming all your problems on the devil/demons} FEAR 1.
-  Fear God • Exodus 23:21, Leviticus 19:14,32, 25:36, Deuteronomy 5:29,
-  6:13,24, 8:6, 10:12,20, 13:4, Joshua 24:14, 1 Samuel 12:24, 2 Kings
-  17:36,39, 1 Chronicles 16:30, Job 40:3-5, Psalm 2:11, 22:23, 33:8, 34:9,
-  76:7,11, 85:11, 89:7, 90:11-12, 96:9, 119:120, 130:3-4, Proverbs 1:7,
-  3:7, 8:13, 10:27, 13:13, 14:16,26-27, 15:16,33, 16:6, 19:23, 22:4,
-  23:17, 24:21, 28:14, Ecclesiastes 12:13, Isaiah 8:13, 11:2, Malachi
-  1:14, Matthew 10:28, Luke 12:5, Romans 11:20, 2 Corinthians 7:1,
-  Philippians 2:12, Colossians 3:22, Hebrews 4:1, 12:28, 1 Peter 1:17,
-  2:17, Revelation 14:7 • Note: With Trembling: Psalm 2:11, Ephesians 6:5,
-  Philippians 2:12 2. Fear your parents • Leviticus 19:3 3. Fear the
-  government when you do evil • Proverbs 20:2, 24:21, Romans 13:4,7 4.
-  Fear your masters • Malachi 1:6, Ephesians 6:5, 1 Peter 2:18 5. Fear not
-  (everything else) • Genesis 15:1, 26:24, Deuteronomy 31:6,8, Joshua 1:9,
-  8:1, 10:8, 1 Samuel 12:20, 1 Chronicles 22:13, 28:20, 2 Chronicles
-  20:15,17, Job 31:34, Psalm 37:1,7, 49:16, Proverbs 3:25-26, 24:19,
-  29:25, Isaiah 35:4, 41:10,14, 43:1,5, 44:2, 51:7, Jeremiah 1:8,17,
-  Lamentations 3:57, Ezekiel 2:6, 3:9, Zephaniah 3:16, Haggai 2:5,
-  Zechariah 8:13, Matthew 10:26,28,31, Luke 5:10, 12:4,7,32, 21:9, John
-  14:1,27, Philippians 1:28, 2 Timothy 1:7, Hebrews 13:6, 1 Peter 3:14,
-  Revelation 1:17, 2:10 • Ye shall not be afraid of the face of man (as a
-  judge): Deuteronomy 1:17 • Thou shalt not be afraid of him (the false
-  prophet): Deuteronomy 18:22 • Note: people fear because of uncertainty
-  about God’s promises (opposite of faith) 6. Have courage • Deuteronomy
-  31:6-7,23, Joshua 1:6-7,9, 23:6, 2 Chronicles 32:7, Psalm 31:24, Isaiah
-  35:3-4 FORNICATION 1. A man must marry a maid (virgin) that he lies with
-  (unless the father rejects him) • Exodus 22:16, Deuteronomy 22:28-29
-  FRIENDS 1. Don’t forsake your friends • Proverbs 18:24, 27:10 Don’t be
-  friends/companions with… 1. An angry man • Proverbs 22:24 2. A
-  glutton/drunkard • Proverbs 23:20-21, 28:7 3. A flatterer • Proverbs
-  20:19 4. Unbelievers • 2 Corinthians 6:14-18 5. Evil men • Proverbs
-  1:15, 24:1, 2 Timothy 3:5 6. Scorners • Proverbs 22:10 7. Those given to
-  change • Proverbs 24:21 8. Foolish men • Proverbs 13:20, 14:7 Be
-  friends/companions with… 9. Those that fear God/Wise men • Psalm 119:63,
-  Proverbs 13:20, 15:13, 2 Timothy 2:22 GENDER 1. Sin of effeminacy • 1
-  kings 2:2, 1 Corinthians 6:9, 16:13 2. Women should be soft spoken •
-  Proverbs 7:11, 9:13, Titus 2:5, 1 Peter 3:4 GOOD MANNERS 1. Have Salt
-  (savor) • Mark 9:50, Colossians 4:6 2. Be Courteous • 1 Peter 3:8 3.
-  Greet/Salute others (especially by name) • Psalm 2:12, Matthew 10:12,
-  Luke 10:5, 1 Corinthians 16:20, 1 Thessalonians 5:26, Philippians 4:21,
-  Hebrews 13:24, 3 John 1:14 4. Stand up when an elderly man walks in •
-  Leviticus 19:32 5. Don’t be cruel to the disabled • Leviticus 19:14,
-  Deuteronomy 27:18 6. Help those in need • Exodus 23:5, Deuteronomy 22:4
-  7. Visit the sick • Matthew 25:36 8. Visit them in prison • Matthew
-  25:36, Hebrews 13:3 9. Don’t abuse hospitality • Proverbs 25:17, Matthew
-  10:11, Mark 6:10, Luke 9:4, 10:7 GRATITUDE 1. In everything give thanks
-  • 1 Chronicles 16:8,34, Psalm 30:4, 50:14, 95:2, 97:12, 100:4, 105:1,
-  107:1, 147:7, 1 Thessalonians 5:18, Ephesians 5:4,20, Colossians 2:7b,
-  3:15,17b 2. Don’t complain, murmur or be ungrateful • Numbers 11:1, John
-  6:43, 1 Corinthians 10:10, Philippians 2:14, Ephesians 4:31 (clamor-
-  loud outcry; expression of discontent or protest) HOUSING 1. And thou
-  shalt write them upon the posts of thy house, and on thy gates (Display
-  God’s Word throughout your house) • Deuteronomy 6:9, 11:20 2. Build a
-  battlement on your roof when constructing a house • Deuteronomy 22:8
-  HUMILITY/HONOR 1. Be humble (when you soberly esteem yourself low and
-  another high) (pride is a sin) • Proverbs 3:34, 6:17, 8:13, 11:2, 12:9,
-  13:10, 15:25,33, 16:5,18-19, 17:19, 18:11-12, 21:4, 22:4, 28:25, 29:23,
-  30:13, Isaiah 66:2, Micah 6:8, Mark 7:22, Romans 11:20, 12:3,16, 1
-  Corinthians 1:26-29, 4:6, 2 Corinthians 12:20, Ephesians 4:2,
-  Philippians 2:3,5, Colossians 3:12, James 4:6,10, 1 Peter 5:5-6 2. Be
-  meek • Zephaniah 2:3, Galatians 5:23, Ephesians 4:2, Colossians 3:12, 1
-  Timothy 6:11, Titus 3:2, 1 Peter 3:4,15 3. Choose the lowest seat •
-  Proverbs 25:6-7, Matthew 23:6, Mark 12:39, Luke 11:43, 14:8,10, 20:46 4.
-  Say we are unprofitable servants (God isn’t bettered by us- only we and
-  the people around us are profited: stay humble) • Luke 17:10 Honor,
-  reverence, esteem highly 5. Husband to wife • 1 Peter 3:7 6. Wife to
-  husband • Ephesians 5:33 7. Children to parents • Exodus 20:12,
-  Deuteronomy 5:16, 27:16, Proverbs 30:17, Ezekiel 22:7, Matthew 15:4,
-  19:19, Mark 7:10, 10:19, Luke 18:20, Ephesians 6:2 8. Servant to master
-  • Malachi 1:6, 1 Timothy 6:1 9. Citizens to the king • Romans 13:7, 1
-  Peter 2:17 10. Believers to spiritual leader • Philippians 2:29, 1
-  Corinthians 4:1, 1 Thessalonians 5:12-13, 1 Timothy 5:17, Hebrews 13:7;
-  1 Timothy 4:12, Titus 2:15 11. Other believers (in general) • Romans
-  12:10 12. Elderly • Leviticus 19:32, 1 Timothy 5:3 13. All men (equal
-  value as a person) • Titus 3:2, 1 Peter 2:17 14. Worship the Lord • 2
-  Kings 17:36, Psalm 4:4, 45:11, 96:9, Matthew 4:10, Luke 4:8, Hebrews
-  12:28, Revelation 14:7, 19:10 • Sanctify the Lord: Isaiah 8:13, 1 Peter
-  3:15 JOY 1. Rejoice in the Lord (always/evermore): 1 Chronicles 16:10,
-  Psalm 2:11, 5:11, 32:11, 33:1, 37:4, 40:16, 48:11, 67:4, 68:3-4, 70:4,
-  97:12, 118:12, 149:2,5, Proverbs 15:13,15, 17:22, Ecclesiastes 9:7,
-  Isaiah 65:18, 66:10, Joel 2:23, Zephaniah 3:14, Zechariah 2:10, 9:9,
-  Romans 12:8b, 1 Corinthians 13:11, Galatians 5:22, Philippians 3:1, 4:4,
-  1 Thessalonians 5:16 • For your Salvation: Luke 10:20 • For
-  rewards/blessings: When tempted (tested to sin): James 1:2, When
-  persecuted for Christ’s sake: Matthew 5:12, Luke 6:23, John 16:33,
-  Romans 12:12a, 1 Peter 3:14, 4:12-13,16, When exalted/made low:
-  Ecclesiastes 7:14, James 1:9-10, For hope of reward: Jeremiah 31:16 2.
-  Rejoice not; sorrow; mourn (because of sin) • Jeremiah 6:26, Hosea 9:1,
-  Joel 1:5,11,13, 2:12-13, James 4:9,16 3. Be happy for others (when good
-  things happen) or sad (when bad) Job 6:14, Proverbs 17:5, Romans 12:15,
-  Hebrews 13:3, 1 Peter 3:8 JUSTICE AND EQUITY (CIVIL & MORAL) 1. Judge
-  righteous judgement • Exodus 23:7, Leviticus 19:15,35, Deuteronomy 1:16,
-  16:18-20, 24:17, 25:1, 27:19, Proverbs 17: 15,26, 18:5, 29:4, 31:8-9,
-  Jeremiah 7:5-6, 22:3, Ezekiel 18:8, 45:9, Hosea 12:6, Micah 6:8,
-  Zechariah 8:16, John 7:24, Titus 1:8 2. Thou shalt not respect persons
-  (equality) (poor/ mighty/ rich/ stranger) • Deuteronomy 1:17, 16:19,
-  Proverbs 18:5, 24:23, 28:21, Ephesians 6:9, Colossians 4:1, 1 Timothy
-  5:21, Titus 1:8, James 2:1,9 a. Poor/Rich: Exodus 23:3, Leviticus 19:15,
-  Proverbs 29:7,14, Isaiah 10:2, Zechariah 7:10, James 2:2-4 b.
-  Small/Great: Deuteronomy 1:17, Proverbs 17:26 c. Stranger/Brethren
-  (applicable to race/ethnicity): Exodus 12:48-49, 22:21, 23:9, Leviticus
-  19:33-34, 24:22, Numbers 15:15-16, Deuteronomy 27:19, Jeremiah 7:6,
-  Ezekiel 22:7, Zechariah 7:10, Malachi 3:5 d. Widow/Fatherless: exodus
-  22:22, Deuteronomy 27:19, Isaiah 1:17, 10:2, Jeremiah 7:6, Ezekiel 22:7,
-  Zachariah 7:10, Malachi 3:5, Matthew 23:14, Mark 12:40, Luke 20:47 3.
-  Don’t receive bribes (money that corrupts judgment) • Exodus 23:8,
-  Deuteronomy 16:19, Psalm 15:5, Proverbs 15:27, 17:23, 29:4, Ezekiel
-  22:12 5. Receive not an accusation but before two or three witnesses • 1
-  Timothy 5:19 6. One is punished for his own sin (not for another
-  person’s) Deuteronomy 24:16, 2 Kings 14:6, 2 Chronicles 25:4, Ezekiel
-  18:18-20 7. Don’t twist judgment to follow the crowd • Exodus 23:2 LOVE
-  & HATE 1. Love God • Deuteronomy 6:5, 10:12,20, 11:1, 13:22, 30:16,20,
-  Joshua 22:5, 23:11, Psalm 17:15,18:1, 31:23, 40:8, 42:1-3, 57:7, 63:1-2,
-  73:25, 89:16, 100:2, 105:3, 143:6, Proverbs 8:17, Matthew 22:37-38, Mark
-  12:30, Luke 10:27,11:42, Colossians 3:2, Jude 1:21 • In comparison to
-  loving God: hate father, mother, wife, children, brethren, sisters, and
-  your own life: Luke 14:26: Matthew 10:37 2. Love good (righteousness),
-  hate evil (sin) • Psalm 11:5, 97:10, 101:3, Proverbs 6:18, 8:13, 10:23,
-  13:5, 14:9, 15:10, 21:10,15, 27:3, 28:16, Amos 5:14-15, Micah 6:8,
-  Zephaniah 2:3, Matthew 5:6, Romans 12:9, Ephesians 5:11, Hebrews 1:9, 3
-  John 1:11, Revelation 3:19 Thy law do I love/longing after at all times/
-  stick (cleave) unto them/run/make haste/delay not/ pant for thy
-  word/Lift up your voice fore/seek as for hid treasures. • 1 Chronicles
-  28:8-9, Psalm 1:2,40:8,
-  119:16,20,24,31,32,35,40,60,70,72,77,97,103,111,113,131,136,140,143,161,167,174,
-  Proverbs 1:7,22, 2:1-4,10, 3:15, 4:5-8, 7:1-4, 12:1, 15:21, 18:2,
-  Ezekiel 22:8, 1 Thessalonians 5:20, Hebrews 13:22, 1 Peter 2:2 3. Thou
-  shalt not covet: Be content: Love not the world, neither the things in
-  the world • Exodus 20:17, Deuteronomy 5:21, Job 31:25, Proverbs 15:27,
-  27:20, 28:20,22, 30:8,15-16, Mark 7:22, Luke 3:14, 12:15, Romans 7:7,
-  13:9, 1 Corinthians 6:10, 10:6, Ephesians 5:3, Philippians 4:11-12,
-  Colossians 3:2,5, 1 Timothy 3:3,8, 6:5-11, 2 Timothy 2:4,22, Titus 1:7,
-  2:12, Hebrews 13:5, James 5:1, 1 Peter 2:11, 4:2, 5:2; 1 John 2:15-17,
-  James 4:4, 2 Timothy 3:4, 4:10 • Envy: Psalm 37:1, Proverbs 3:31, 14:30,
-  23:17, 24:1,19, 27:4, Romans 1:29, 13:13, 1 Corinthians 13:4, 2
-  Corinthians 12:20, Galatians 5:20-21,26, 1 Peter 2:1 • Let us not be
-  desirous of vain glory: Galatians 5:26, Philippians 2:3 • Don’t lust
-  after strange women (for fornication or adultery): Exodus 20:17,
-  Deuteronomy 5:21, Proverbs 5:19-21, 6:25, Matthew 5:28, Galatians 5:19,
-  Colossians 3:5, 1 Thessalonians 4:5 • Deny self (don’t live for worldly
-  pleasures): Proverbs 21:17, Matthew 16:24, Mark 8:34, Luke 9:23, Romans
-  15:1 4. Love others (everybody except haters of God) (saved/unsaved;
-  physical family/strangers; those that hate you/those that love you)
-  Brethren: Leviticus 19:17, Deuteronomy 23:7, Zechariah 7:10, John
-  13:14-15 (example),34-35, 15:9,12,17, Romans 12:10, 13:8, 1 Corinthians
-  16:14, 2 Corinthians 6:13, 9:7, Galatians 6:10, Ephesians 4:2, 1 Timothy
-  6:2, Hebrews 13:1, 10:24, 1 Peter 1:22, 2:1,17, 3:8, 1 John
-  3:11,16-18,23, 4:7,11,21, 2 John 1:5 Unsaved: 1 Corinthians 10:33,
-  Galatians 6:10, 3 John 1:5 Family: Proverbs 11:29, 15:17,20, 23:22,
-  Ephesians 5:25,28,33, Colossians 3:19, Titus 2:4 Stranger: Leviticus
-  19:34, Deuteronomy 10:19, 23:7, Matthew 25:35 Enemy: Exodus 23:4-5, Job
-  31:29-31, Proverbs 24:17-18, Matthew 5:44a, Luke 6:27,35, Romans 12:21
-  Friend: John 15:13 Children: Matthew 18:10, Mark 10:14, Luke 18:16
-  Neighbor (all): Leviticus 19:18, Proverbs 3:29, 11:12, 14:21, Hosea
-  12:6, Zechariah 8:17, Matthew 19:19, Mark 12:31, Romans 13:9, 1
-  Corinthians 10:24, Galatians 5:14,20,22 6:10, Ephesians 5:2, 6:7,
-  Philippians 2:4, 1 Thessalonians 5:8, 1 Timothy 6:11, Titus 1:8, James
-  2:8,12 Orphan/widow: James 1:27 -Charity: 1 Corinthians 13:1-13, 14:1,
-  16:14, Colossians 3:14, 2 Timothy 2:22, Titus 2:2, 1 Peter 4:8, 2 Peter
-  1:7 • External: Matthew 7:12, 22:39-40, Luke 6:31,36, Romans 15:1,
-  Galatians 5:13, Colossians 3:12a, 2 Peter 1:7 • Internal: Ephesians
-  4:32, Titus 2:7 5. Do good especially to the household of faith •
-  Galatians 6:10 6. Hate haters of God; don’t help the ungodly •
-  Deuteronomy 13:8, 19:13,21, Judges 5:31, 2 Chronicles 19:2, Psalm 15:4,
-  26:5, 31:6, 40:4, 139:21-22, Proverbs 28:4, 29:27, 1 Corinthians 16:22,
-  Revelation 2:2 • Let them alone (do not help/appease them): Matthew
-  15:14 MONEY (PROVERBS 3:9) Possessions 1. Remember God (that He gives me
-  the power to get wealth) • Deuteronomy 6:12, 8:2,11,18, 1 Timothy 6:17
-  2. Know the state of your flock (budget/assessment; don’t waste your
-  resources) • Proverbs 12:27, 14:4, 18:9, 27:23-27, John 6:12 3. Lay not
-  for yourselves treasures upon the earth, nor greatly multiply your
-  silver and gold (or horses: possessions) • Deuteronomy 17:16-17 (for
-  kings), Proverbs 23:4-5, Matthew 6:19,24, Luke 12:21, 14:33, 16:13;
-  Proverbs 11:26 • Note: “lay up” means to store; put out of active
-  service; or collect 4. Have a purse (wallet) • Luke 22:35-36 5. Have a
-  scrip (bag for possessions) • Luke 22:35-36 6. Leave an inheritance •
-  Proverbs 13:22 Debt 7. Pay your debts • Psalm 37:21, Romans 13:8 Provide
-  physical needs (food, water, shelter, clothing) 8. Husbands to the
-  wife/family • Genesis 3:17-19, Exodus 21:10, Ephesians 5:28-29, 1
-  Timothy 5:8,16 9. Children/grandchildren repay your parents • Matthew
-  15:5-6, Mark 7:11-12, John 19:26-27, 1 Timothy 5:4,16 (Nephew archaic
-  definition) 10. Believer to poor brethren • Leviticus 25:35, Matthew
-  10:40-42, 25:35,40, Mark 9:37,41, Luke 9:48, Romans 12:13, Galatians
-  6:2, 1 Thessalonians 5:14, 1 Timothy 3:2, Titus 1:8, Hebrews 13:2, 1
-  Peter 4:9, 1 John 3:17 11. Your enemy (food and water) • Romans 12:20,
-  Proverbs 25:21-22 12. The poor (unspecified) • Ezekiel 18:7, Job 29:16,
-  31:16-20,32, Proverbs 11:25, 14:21,31, 19:17, 21:13, 22:9, 28:27, 30:14,
-  31:20, Isaiah 58:7, Matthew 19:21, Mark 10:21, Luke 3:11, 11:41, 12:33,
-  Ephesians 4:28, 1 Timothy 6:18b, Hebrews 13:16. Note: not the rich:
-  Proverbs 22:16, Luke 14:12-14 13. Laborers for God • 3 John 1:8,
-  Philippians 2:29, 2 Corinthians 7:2, Colossians 4:10, Titus 3:13-14 14.
-  Receive him not into your house (false prophet) • 2 John 1:10 Giving 15.
-  Give/lend (to brother) cheerfully • Deuteronomy 15:10, Romans 12:8, 2
-  Corinthians 9:7, 1 Peter 4:9 16. Give (alms) with simplicity (with
-  sincerity; not to be seen of men) • Matthew 6:1-4, Romans 12:8 17. Give
-  to him that asks you • Proverbs 21:26, Matthew 5:42, Luke 6:30,38 •
-  Note: there is a concept of refusing in the Bible: young widows; those
-  who are lazy; false prophets 18. Give gifts • Luke 16:9, Proverbs 17:8,
-  18:16, 19:6, 21:14 19. Be reconciled with thy brother before giving your
-  offering • Matthew 5:23-24 Financial responsibility 20. First prepare
-  your work (before you buy the house, start the family, etc.) • Proverbs
-  24:27 Tithing 21. Pay 1/10 of your increase unto the Lord • Genesis
-  14:20, 28:22, Leviticus 27:30,32, Malachi 3:8-10, Matthew 22:21, 23:23,
-  Mark 12:17, Luke 11:42, 18:12, 20:25, 1 Corinthians 9:3-14, 16:2,
-  Hebrews 7:8 Business Ethics 22. Hate suretyship • Proverbs 6:1-5, 11:15,
-  17:18, 20:16, 22:26, 27:13 23. The wages of him that is hired shall not
-  abide with thee all night until the morning • Leviticus 19:13,
-  Deuteronomy 24:14-15, Malachi 3:5 24. Thou shalt not steal • Exodus
-  20:15, Leviticus 19:11, Deuteronomy 5:19, Matthew 19:18, Mark 7:22,
-  10:19, Luke 18:20, Ephesians 4:28, Romans 13:9, 1 Timothy 1:10, Titus
-  2:10, 1 Peter 4:15 • False balance: Leviticus 19:35-36, Deuteronomy
-  25:13-15, Proverbs 11:1, 16:11, 20:23, Ezekiel 45:10 25. Defraud not:
-  Leviticus 6:2, 19:13, Deuteronomy 24:14-15, Proverbs 13:11, 21:6, 22:22,
-  Jeremiah 22:13, Mark 10:19, 1 Thessalonians 4:6, James 5:4 • Meaning: to
-  take something that belongs to someone through
-  deceit/cheating/lying/tricks 26. Extortion/robbery: Leviticus 6:2,
-  19:13, Proverbs 1:15, 21:7, 22:22, 28:24, Ezekiel 18:7, 22:12, 45:9,
-  Luke 3:13, 1 Corinthians 6:10 • Meaning: to take something that belongs
-  to someone through force or threats 27. Restore lost property • Exodus
-  23:4, Leviticus 6:3, Deuteronomy 22:1-3 Lending 28. Lend to poor
-  brethren • Deuteronomy 15:7-11, Psalm 112:5, Matthew 5:42 29. Hope for
-  nothing in return (when lending) • Deuteronomy 15:9, Luke 6:30,35 30.
-  Thou shalt not lend upon usury to thy brother (charging interest) •
-  Exodus 22:25, Leviticus 25:35-37, Deuteronomy 23:19-20, Nehemiah 5:9-11,
-  Psalm 15:5, Proverbs 28:8, Ezekiel 18:8, 22:12 31. Don’t hold your poor
-  neighbor’s pledge (collateral) overnight (clothing) • Exodus 22:26-27,
-  Deuteronomy 24:12-13, Ezekiel 18:7 32. Don’t go into thy brother’s house
-  to fetch his pledge: wait for him to bring it out • Deuteronomy 24:10-11
-  33. Don’t take a widow’s raiment to pledge • Deuteronomy 24:17 34. Don’t
-  take the nether or upper millstone as a pledge • Deuteronomy 24:6 35.
-  Take the pledge of the stranger • Proverbs 20:16, 27:13 NEW TESTAMENT
-  CHURCH Note: the word “Church” is used interchangeably with congregation
-  (Hebrews 2:12 quotes Psalm 22:22. Also Acts 7:38-all of the
-  congregation, of the children of Israel, is quoted as “church in the
-  wilderness” in Act 7) 1. Go to church • Deuteronomy 12:5, Hebrews 10:25
-  2. Follow men of God (spiritual leaders) • 1 Corinthians 4:16, 11:1,
-  Philippians 3:17, Hebrews 6:12, 13:7, James 5:10 3. Be of one
-  mind/spirit (teamwork, unity) • Mark 3:25, Romans 15:5-7, 1 Corinthians
-  1:10, 2 Corinthians 13:11, Ephesians 4:3, Philippians 1:27, 2:2, 3:16, 1
-  Peter 3:8 4. Make not my Father’s house a house of merchandise • Matthew
-  21:12-13, Mark 11:15-17, Luke 19:45-46, John 2:16 • Meaning: there
-  shouldn’t be buying or selling of goods or services in the church
-  building 5. A foreign speaker is required to translate or have a
-  translator in the church • 1 Corinthians 14:13,27-28,33 • Note:
-  “Tongues” is used interchangeably with language, example- acts 2 6. A
-  maximum of 3 preachers in a church service is permitted • 1 Corinthians
-  14:29,33 • Note: a preacher isn’t necessarily the pastor/bishop/etc. 7.
-  One man speaks at a time (in church) - no interrupting • 1 Corinthians
-  14:30-33 8. Women keep silence in the churches • 1 Corinthians 14:34-35,
-  1 Timothy 2:11-12, Revelation 2:20 9. Do not call a religious leader
-  rabbi, master, or father (rabbi means master. God is your spiritual
-  master and father. Note: according to the flesh: Colossians 3:22, 4:1) •
-  Matthew 23:8-10 10. Widows who fulfill these requirements can go to the
-  church for assistance: (1) Husband is dead v. 5 (2) Born again-saved v.
-  5 (3) At least 60 years old v. 9 (4) Practiced monogamy in marriage
-  v.9,14 (5) Godly- well reported of good works v. 5-6,10 • 1 Timothy
-  5:5,9-16 11. Be not many masters (appropriate ratio of church leaders to
-  members and no confusion in who is the boss) • James 3:1 12. Let all
-  things be done decently and in order (with the purpose of edifying other
-  believers) • 1 Corinthians 14:26,40, 2 Corinthians 12:20 (tumult)
-  Principle: Elder=Bishop=Pastor=Overseer=Steward: Titus 1:5,7, Acts
-  20:17,28, 1 Peter 5:1-2 13. Pastors and deacons must fulfill biblical
-  requirements • 1 Timothy 3:2-7, Titus 1:6-9; 1 Timothy 3:8-10-12 14.
-  Pastors and deacons (and spiritual workers) are paid from the church •
-  Deuteronomy 25:4, Acts 6:2, Romans 15:27, 1 Corinthians 9 (note:
-  altogether), Galatians 6:6 (“communicate” here means to give), 1 Timothy
-  5:17-18, Hebrews 13:7 15. Pastors oversee the church
-  (administer/supervisor) • Acts 20:28, 1 Peter 5:2 16. Pastors don’t rule
-  as a lord • Mark 10:42-45, 1 Peter 5:2-3 17. Pastor: commit the
-  distribution of God’s word to faithful men • 2 Timothy 2:2 18. Ordain
-  elders in every city • Titus 1:5 19. Lay hands on no man suddenly • 1
-  Timothy 5:22 OBEYING AUTHORITY Obey your authorities (in general):
-  (Romans 13:1-2, Galatians 5:20, Ephesians 5:21, Peter 5:5) 1. Wife to
-  husband • Proverbs 7:11, 19:13, 21:9,19, 25:24, 27:15-16, Ephesians
-  5:22-24, 1 Peter 3:1,5,6, Titus 2:5, Colossians 3:18 2. Children to
-  parents • Proverbs 1:8, 4:1-4,10, 6:20-23, 13:1, 15:5, 23:22,26,
-  Ephesians 6:1, Colossians 3:20, 1 Timothy 3:4,12, Titus 1:6; 3. Servants
-  to masters • 1 Samuel 22:14, Ephesians 6:5, Colossians 3:22, 1 Timothy
-  6:2, Titus 2:9-10, 1 Peter 2:18; 4. Congregation to pastor & ministry
-  workers (within church role) • 1 Corinthians 16:16, Hebrews 13:17, 1
-  Peter 5:5; 5. Citizen to civil authority/laws (within government role) •
-  Deuteronomy 17:10-11, Romans 13:5, Titus 3:1, 1 Peter 2:13-14, 4:6 6.
-  Exception: Don’t obey commands to sin • Acts 4;19, 5:29, Romans 13:1
-  (chain of command), Daniel 1:8-9, Exodus 1:17,21, 1 Kings 18:3-4, (God’s
-  commands have pre-eminence over man’s commands) PATIENCE 1. Be Patient:
-  • Ecclesiastes 7:8, Luke 21:19, Romans 12:12, 1 Thessalonians 5:14, 1
-  Timothy 3:3, 6:11, 2 Timothy 2:24, 4:2, Titus 2:2, James 1:4, 5:7-8,10,
-  2 Peter 1:6, 3:15 • Wait upon the Lord: Psalm 27:14, 37:7,34, Proverbs
-  20:22, Zephaniah 3:8, Hosea 12:6 PHYSICAL Hair 1. Ye shall not round the
-  corners of your heads, neither shalt thou mar the corners of thy beard •
-  Leviticus 19:27, 21:5, Deuteronomy 14:1, Ezekiel 44:20 • Meaning: Not to
-  shave off part/whole of the head and not shave off parts of the beard to
-  disfigure. This prohibits mohawk, carving designs in the head or beard,
-  etc. Note: Full shaving is often done during times of mourning:
-  Deuteronomy 21:12-13, Job 1:20,22, Jeremiah 7:29, Micah 1:16 2. Men
-  should have short hair; women should have long hair • 1 Corinthians 6:9,
-  11:1-16, Ezekiel 44:20 Skin 3. Ye shall not make any cuttings in your
-  flesh • Leviticus 19:28, 21:5, Deuteronomy 14:1 4. No tattoos •
-  Leviticus 19:28 Food 1. Don’t be a glutton • Deuteronomy 21:20, Proverbs
+  Food 1. Don’t be a glutton • Deuteronomy 21:20, Proverbs
   13:25, 23:1-3,20-21, 25:16,27, 27:7, Ecclesiastes 10:16-17 (2
   Thessalonians 3:10), Galatians 5:21, Titus 1:8 • Not given to wine: 1
   Timothy 3:3,8, Titus 1:7, 2:3 6. Don’t fast for show: no sad
