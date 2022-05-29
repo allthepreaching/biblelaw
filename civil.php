@@ -6,7 +6,7 @@
 
     <?php
 
-    $query = "SELECT * FROM categories WHERE cat = 'Civil Law'";
+    $query = "SELECT * FROM categories WHERE cat = 'Civil Law' ORDER BY section_id ASC";
     $result = mysqli_query($conn, $query);
     $output = '';
     while ($row = mysqli_fetch_array($result)) {

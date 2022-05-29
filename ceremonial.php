@@ -6,7 +6,7 @@
 
     <?php
 
-    $query = "SELECT * FROM categories WHERE cat = 'Ceremonial Law'";
+    $query = "SELECT * FROM categories WHERE cat = 'Ceremonial Law' ORDER BY section_id ASC";
     $result = mysqli_query($conn, $query);
     $output = '';
     while ($row = mysqli_fetch_array($result)) {
@@ -68,73 +68,266 @@
     <li>
       <span class="main-li">All males shall appear before the LORD</span>
       <ul class="styled">
-        <li>Exodus 23:17, 34:23, Deuteronomy 16:16</li>
+        <li>
+          <span class="modal-verse" id="Exodus 23:17">Exodus 23:17</span> ,
+          <span class="modal-verse" id="Exodus 34:23">34:23</span> ,
+          <span class="modal-verse" id="Deuteronomy 16:16">Deuteronomy 16:16</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Blow the Silver Trumpets during solemn feast days and in the beginning of months (over burnt offerings and over sacrifices of peace offerings)</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Numbers 10:10">Numbers 10:10</span> ,
+          <span class="modal-verse" id="Psalm 81:3">Psalm 81:3</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">New Testament</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Romans 14:5">Romans 14:5</span> ,
+          <span class="modal-verse" id="1 Corinthians 5:7">1 Corinthians 5:7</span> ,
+          <span class="modal-verse" id="Galatians 4:9-10">Galatians 4:9-10</span> ,
+          <span class="modal-verse" id="Colossians 2:14-17">Colossians 2:14-17</span> ,
+          <span class="modal-verse" id="1 Peter 1:19">1 Peter 1:19</span>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="main-li">Passover (Passover is the first day of the feast of unleavened bread</span>
+      <ul class="styled">
+        <li>
+          <span class="modal-verse" id="Ezekiel 45:21">Ezekiel 45:21</span> ,
+          <span class="modal-verse" id="Matthew 26:17-21">Matthew 26:17-21</span> ,
+          <span class="modal-verse" id="Mark 14:12">Mark 14:12</span> ,
+          <span class="modal-verse" id="Luke 22:1">Luke 22:1</span> ,
+          <span class="modal-verse" id="Luke 22:7">22:7</span> ,
+          <span class="modal-verse" id="Acts 12:3-4">Acts 12:3-4</span>
+        </li>
+        <li>
+          This month (Abib) shall be unto you a beginning of months, it shall be the first month of the year to you
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:2">Exodus 12:2</span> ,
+              <span class="modal-verse" id="Deuteronomy 16:1">Deuteronomy 16:1</span>
+            </li>
+            <li>
+              Significance: new beginning in Christ (Passover)
+            </li>
+          </ul>
+        </li>
+        <li>
+          On the 10th day of Abib, take a lamb
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:3">Exodus 12:3</span>
+            </li>
+            <li>
+              Significance: Jesus entered Jerusalem on the 10th
+            </li>
+          </ul>
+        </li>
+        <li>
+          Lamb must be a first-year male (from sheep or goats)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:5">Exodus 12:5</span>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Kill the Passover on the 14th in the evening, eat it that night
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:6">Exodus 12:6</span> ,
+              <span class="modal-verse" id="Exodus 12:8">12:8</span> ,
+              <span class="modal-verse" id="Leviticus 23:5">Leviticus 23:5</span> ,
+              <span class="modal-verse" id="Numbers 9:3">Numbers 9:3</span> ,
+              <span class="modal-verse" id="Numbers 28:16">28:16</span> ,
+              <span class="modal-verse" id="Deuteronomy 16:2">Deuteronomy 16:2</span> ,
+              <span class="modal-verse" id="Ezekiel 45:21">Ezekiel 45:21</span>
+            </li>
+            <li>
+              Significance: this foreshadows Jesus' crucifixion week; he entered Jerusalem on the 10TH, was crucified on the 14TH, and the “whole assembly of the congregation of Israel shall kill it (the first-year lamb) in the evening”. The Passover is called a sacrifice in Deuteronomy 16
+            </li>
+          </ul>
+        </li>
+        <li>
+          Strike Blood on the posts of the door where they eat
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:7">Exodus 12:7</span> ,
+              <span class="modal-verse" id="Exodus 12:13">12:13</span>
+            </li>
+            <li>
+              Significance: Jesus sacrificing himself for mankind does mean that everyone is saved: you need a personal application of the blood. The people with the blood on the doorpost were the ones passed over by the angel of death on the first
+              Passover
+            </li>
+          </ul>
+        </li>
+        <li>
+          Eat the Flesh of the Passover Lamb with unleavened bread, and bitter herbs (also don’t eat leavened bread) (start of 7-day feast)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:8">Exodus 12:8</span> ,
+              <span class="modal-verse" id="Exodus 13:3">13:3</span> ,
+              <span class="modal-verse" id="Exodus 23:18">23:18</span> ,
+              <span class="modal-verse" id="Exodus 34:25">34:25</span> ,
+              <span class="modal-verse" id="Numbers 9:11">Numbers 9:11</span>
+            </li>
+            <li>
+              Significance: we symbolically eat the Flesh of Jesus in the New Covenant
+            </li>
+          </ul>
+        </li>
+        <li>
+          Must be roasted with fire: not raw or boiled
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:8-9">Exodus 12:8-9</span> ,
+              <span class="modal-verse" id="Deuteronomy 16:7">Deuteronomy 16:7</span>
+            </li>
+            <li>
+              Significance: Jesus went to hell for three days and three nights (<span class="modal-verse" id="Acts 2:31">Acts 2:31</span>)
+            </li>
+          </ul>
+        </li>
+        <li>
+          His head with his legs and with purtenance thereof
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:9">Exodus 12:9</span>
+            </li>
+            <li>
+              Significance: Jesus’ whole body was sacrificed
+            </li>
+          </ul>
+        </li>
+        <li>
+          Let none of the Passover remain until the morning, burn the remains with fire
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:10">Exodus 12:10</span> ,
+              <span class="modal-verse" id="Exodus 23:18">23:18</span> ,
+              <span class="modal-verse" id="Exodus 34:25">34:25</span> ,
+              <span class="modal-verse" id="Numbers 9:12">Numbers 9:12</span> ,
+              <span class="modal-verse" id="Deuteronomy 16:4">Deuteronomy 16:4</span>
+            </li>
+            <li>
+              Significance: shows that salvation is a one-time thing because the Passover represents Jesus and we're only supposed to eat of it for one meal and burn the leftovers (so that none remains to be eaten thereafter)
+            </li>
+          </ul>
+        </li>
+        <li>
+          Eat the Passover with haste and with shoes on, loins girded, staff in hand
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:11">Exodus 12:11</span>
+            </li>
+            <li>
+              Significance: shows the children of Israel trusting God to deliver them out of Egypt (bondage) into Freedom
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Exodus 12:33">Exodus 12:33</span> ,
+                  <span class="modal-verse" id="Exodus 12:42">Exodus 12:42</span> ,
+                  <span class="modal-verse" id="Deuteronomy 16:12">Deuteronomy 16:12</span>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Feast of the Passover and the feast of unleavened bread is to be kept throughout all generations forever (a memorial)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:14">Exodus 12:14</span> ,
+              <span class="modal-verse" id="Exodus 12:17">Exodus 12:17</span> ,
+              <span class="modal-verse" id="Exodus 12:24">Exodus 12:24</span> ,
+              <span class="modal-verse" id="Exodus 13:3">Exodus 13:3</span> ,
+              <span class="modal-verse" id="Exodus 13:10">Exodus 13:10</span>
+            </li>
+            <li>
+              Significance: it is kept by believers who have received an eternal application of Jesus' blood
+            </li>
+            <li>
+              Egypt is the house of bondage
+              <ul class="styled">
+                <li>
+                  <span class="modal-verse" id="Exodus 12:17">Exodus 12:17</span> ,
+                  <span class="modal-verse" id="Exodus 13:3">13:3</span> ,
+                  <span class="modal-verse" id="Exodus 13:14">13:14</span>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          None of you shall go out of his house until the morning
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:22-23">Exodus 12:22-23</span>
+            </li>
+            <li>
+              Significance: once you were born again in Christ you receive eternal life and you can't lose your salvation
+            </li>
+          </ul>
+        </li>
+        <li>
+          Tell your children of the Passover
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:26-27">Exodus 12:26-27</span> ,
+              <span class="modal-verse" id="Exodus 13:8-9">13:8-9</span> ,
+              <span class="modal-verse" id="Exodus 13:14-15">13:14-15</span>
+            </li>
+            <li>
+              Significance: This is one verse that aligns with the Bible teaching that parents should teach their children the things of God. Education begins first at the home, and if a parent leaves their children in the counsel of the ungodly they are setting him up for failure concerning wisdom and right choice of action
+            </li>
+          </ul>
+        </li>
+        <li>
+          Eat the Passover in the house (with the appropriate number of people, <span class="modal-verse" id="Exodus 12:3-4">Exodus 12:3-4</span>, same as communion)
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:46">Exodus 12:46</span>
+            </li>
+            <li>
+              Significance: pictures communion
+            </li>
+          </ul>
+        </li>
+        <li>
+          Don't break the bones of the Passover
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:46">Exodus 12:46</span> ,
+              <span class="modal-verse" id="Numbers 9:12">Numbers 9:12</span>
+            </li>
+            <li>
+              Significance: this foreshadows Jesus being crucified but did not have his bones broken even though it would be customary for the Romans to break the legs to speed up the execution
+            </li>
+          </ul>
+        </li>
+        <li>
+          No uncircumcised shall eat of the Passover feast
+          <ul class="sub">
+            <li>
+              <span class="modal-verse" id="Exodus 12:46">Exodus 12:46</span> ,
+              <span class="modal-verse" id="Numbers 9:12">Numbers 9:12</span>
+            </li>
+            <li>
+              Significance: this foreshadows Jesus being crucified but did not have his bones broken even though it would be customary for the Romans to break the legs to speed up the execution
+            </li>
+          </ul>
+        </li>
       </ul>
     </li>
   </ol>
   <br />
-  <br />
-  <br />
-  <br />
-
-  1. • • ; , 2. • 3. Blow the Silver Trumpets during solemn feast days and
-  in the beginning of months (over burnt offerings and over sacrifices of
-  peace offerings) • Numbers 10:10, Psalm 81:3 New Testament: Romans:
-  14:5, 1 Corinthians 5:7, Galatians 4:9-10, Colossians 2:14–17, 1 Peter
-  1:19 Passover (Passover is the first day of the feast of unleavened
-  bread: Ezekiel 45:21, Matthew 26:17-21, Mark 14:12, Luke 22:1,7, Acts
-  12:3-4) 1. This month (Abib) shall be unto you a beginning of months, it
-  shall be the first month of the year to you • Exodus 12:2, Deuteronomy
-  16:1 • Significance: new beginning in Christ (Passover) 2. On the 10th
-  day of Abib, take a lamb • Exodus 12:3 • Significance: Jesus entered
-  Jerusalem on the 10th 3. Lamb must be a first-year male (from sheep or
-  goats) • Exodus 12:5 4. Kill the Passover on the 14th in the evening,
-  eat it that night • Exodus 12:6,8, Leviticus 23:5, Numbers 9:3, 28:16,
-  Deuteronomy 16:2, Ezekiel 45:21 • Significance: this foreshadows Jesus'
-  crucifixion week; he entered Jerusalem on the 10TH, was crucified on the
-  14TH, and the “whole assembly of the congregation of Israel shall kill
-  it (the first-year lamb) in the evening”. The Passover is called a
-  sacrifice in Deuteronomy 16. 5. Strike Blood on the posts of the door
-  where they eat • Exodus 12:7,13 • Significance: Jesus sacrificing
-  himself for mankind does mean that everyone is saved: you need a
-  personal application of the blood. The people with the blood on the
-  doorpost were the ones passed over by the angel of death on the first
-  Passover. 6. Eat the Flesh of the Passover Lamb with unleavened bread,
-  and bitter herbs (also don’t eat leavened bread) (start of 7-day feast)
-  • Exodus 12:8, 13:3, 23:18, 34:25, Numbers 9:11 • Significance: we
-  symbolically eat the Flesh of Jesus in the New Covenant 7. Must be
-  roasted with fire: not raw or boiled • Exodus 12:8-9, Deuteronomy 16:7 •
-  Significance: Jesus went to hell for three days and three nights (Acts
-  2:31) 8. His head with his legs and with purtenance thereof • Exodus
-  12:9 • Significance: Jesus’ whole body was sacrificed 9. Let none of the
-  Passover remain until the morning, burn the remains with fire • Exodus
-  12:10, 23:18, 34:25, Numbers 9:12, Deuteronomy 16:4 • Significance:
-  shows that salvation is a one-time thing because the Passover represents
-  Jesus and we're only supposed to eat of it for one meal and burn the
-  leftovers (so that none remains to be eaten thereafter) 10. Eat the
-  Passover with haste and with shoes on, loins girded, staff in hand •
-  Exodus 12:11 • Significance: shows the children of Israel trusting God
-  to deliver them out of Egypt (bondage) into Freedom (Exodus 12:33,42,
-  Deuteronomy 16:12) 11. Feast of the Passover and the feast of unleavened
-  bread is to be kept throughout all generations forever (a memorial) •
-  Exodus 12:14,17,24, 13:3,10 • Significance: it is kept by believers who
-  have received an eternal application of Jesus' blood • Egypt is the
-  house of bondage: Exodus 12:17, 13:3 (13:14) 12. None of you shall go
-  out of his house until the morning • Exodus 12:22-23 • Significance:
-  once you were born again in Christ you receive eternal life and you
-  can't lose your salvation 13. Tell your children of the Passover. •
-  Exodus 12:26-27, 13:8-9,14-15 • Significance: This is one verse that
-  aligns with the Bible teaching that parents should teach their children
-  the things of God. Education begins first at the home, and if a parent
-  leaves their children in the counsel of the ungodly they are setting him
-  up for failure concerning wisdom and right choice of action 14. Eat the
-  Passover in the house (with the appropriate number of people Exodus
-  12:3-4, same as communion) • Exodus 12:46 • Significance: pictures
-  communion 15. Don't break the bones of the Passover • Exodus 12:46,
-  Numbers 9:12 • Significance: this foreshadows Jesus being crucified but
-  did not have his bones broken even though it would be customary for the
-  Romans to break the legs to speed up the execution. 16. No uncircumcised
-  shall eat of the Passover feast • Exodus 12:43-45,48 • Significance:
+  16. • Exodus 12:43-45,48 • Significance:
   communion is only for the saved 17. All the congregation of Israel shall
   keep it • Exodus 12:47 18. Those unclean by reason of touching a dead
   body, or those traveling abroad, shall still keep the Passover on the
