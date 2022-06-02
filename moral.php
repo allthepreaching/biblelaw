@@ -6368,10 +6368,10 @@
       <ul class="styled">
         <li>
           <span class="modal-verse" id="Galatians 5:16">Galatians 5:16</span> ,
-          <span class="modal-verse" id=" Ephesians 4:22-24"> Ephesians 4:22-24</span> ,
-          <span class="modal-verse" id=" Ephesians 4:30">4:30</span> ,
-          <span class="modal-verse" id=" Ephesians 5:8">5:8</span> ,
-          <span class="modal-verse" id=" Ephesians 5:18">5:18</span> ,
+          <span class="modal-verse" id="Ephesians 4:22-24">Ephesians 4:22-24</span> ,
+          <span class="modal-verse" id="Ephesians 4:30">4:30</span> ,
+          <span class="modal-verse" id="Ephesians 5:8">5:8</span> ,
+          <span class="modal-verse" id="Ephesians 5:18">5:18</span> ,
           <span class="modal-verse" id="1 Thessalonians 5:19">1 Thessalonians 5:19</span>
         </li>
         <li>

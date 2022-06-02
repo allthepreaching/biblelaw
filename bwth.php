@@ -5,6 +5,7 @@
   <h4>
     <mark> </mark>
   </h4>
+  <h2><a target="_blank" href="https://www.kjv1611only.com/video/01salvation/Pastor_Anderson.mp4">The Bible Way to Heaven Video</a></h2>
   <h3>HOW TO GO TO HEAVEN</h3>
   <ol>
     <li>
